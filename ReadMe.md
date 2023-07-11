@@ -19,6 +19,7 @@
 
 | Tech     |                                                                                                          |
 | -------- | -------------------------------------------------------------------------------------------------------- |
+| Language | Zig(As an alternative to unsafe rust) and WebAssembly                                                    |
 | Runtime  | Deno and Bun                                                                                             |
 | Database | TiDB/YugabyteDB/Tigerbeetledb, ClickHouse/DataBend, Cassandra/ScyllaDB, DGraph/SurrealDB and DragonflyDB |
 | DevOps   | ArgoCD and OpenObserve                                                                                   |
