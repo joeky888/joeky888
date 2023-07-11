@@ -1,8 +1,8 @@
-### Hey 👋, this is a brief version of My resume.
+### Hey 👋, this is a brief version of my resume.
 
 [![Github](https://img.shields.io/github/followers/joeky888?label=Follow&style=social)](https://github.com/joeky888)
 
-#### Most of the time work as a FinTech Backend developer and DevOps manager, sometimes as a React frontend developer. Code as performant and secure as possible.
+#### Most of the time work as a FinTech backend developer and DevOps manager, sometimes as a React frontend developer. Code as performant and secure as possible.
 
 #### Tech stack I'm using:
 
