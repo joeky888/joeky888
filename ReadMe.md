@@ -17,11 +17,12 @@
 
 #### New tech stack I'm evaluating:
 
-| Tech      |                                                                                             |
-| --------- | ------------------------------------------------------------------------------------------- |
-| Runtime   | Deno and Bun                                                                                |
-| Database  | TiDB/YugabyteDB/Tigerbeetledb, ClickHouse/DataBend, Cassandra/ScyllaDB and DGraph/SurrealDB |
-| DevOps    | OpenObserve                                                                                 |
+| Tech     |                                                                                                          |
+| -------- | -------------------------------------------------------------------------------------------------------- |
+| Runtime  | Deno and Bun                                                                                             |
+| Database | TiDB/YugabyteDB/Tigerbeetledb, ClickHouse/DataBend, Cassandra/ScyllaDB, DGraph/SurrealDB and DragonflyDB |
+| DevOps   | ArgoCD and OpenObserve                                                                                   |
+| MQ       | Redpanda                                                                                                 |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeky888&hide=html&theme=dark)
 ![joeky888's github stats](https://github-readme-stats.vercel.app/api?username=joeky888&show_icons=true&count_private=true&line_height=40&theme=synthwave)
