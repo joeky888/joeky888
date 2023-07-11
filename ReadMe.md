@@ -6,7 +6,7 @@
 
 #### Tech stack I'm using:
 
-| Tech      | New                                                                                                                          |
+| Tech      | Including but not limited to                                                                                                 |
 | --------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Language  | Go, Rust, TypeScript(React), Shell Script and PowerShell                                                                     |
 | Database  | MySQL/PostgreSQL, KeyDB, Loki, VictoriaMetrics                                                                               |
