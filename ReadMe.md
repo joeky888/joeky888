@@ -2,13 +2,14 @@
 
 [![Github](https://img.shields.io/github/followers/joeky888?label=Follow&style=social)](https://github.com/joeky888)
 
-#### Most of the time work as a FinTech backend developer and DevOps manager, sometimes as a React frontend developer. Code as performant and secure as possible.
+#### Most of the time work as a FinTech backend developer and DevOps manager. Code as performant and secure as possible.
 
 #### Tech stack I'm using:
 
 | Tech      | Including but not limited to                                                                                                 |
 | --------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Language  | Go, Rust, TypeScript(React), Shell Script and PowerShell                                                                     |
+| Language  | Go, Rust, TypeScript, Shell Script and PowerShell                                                                            |
+| Framework | Fasthttp, Actix-Web                                                                                                          |
 | Database  | MySQL/PostgreSQL, KeyDB, Loki and VictoriaMetrics                                                                            |
 | DevOps    | Kubernetes, Helm, Terraform, Gitea, Drone, Traefik, Linkerd2, Cert-Manager, Grafana, AlertManager, Vector.dev and Autoscaler |
 | Dev Tools | VSCode, Vim/NeoVim, Tmux, DBeaver, Alacritty(macOS) and Wezterm(Windows)                                                     |
