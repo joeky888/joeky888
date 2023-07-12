@@ -7,7 +7,7 @@
 | Tech      | Including but not limited to                                                                                                 |
 | --------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Language  | Go, Rust, TypeScript, Shell Script and PowerShell                                                                            |
-| Framework | Fasthttp, Actix-Web                                                                                                          |
+| Framework | Fiber, Fasthttp, Actix-Web, Ethers-rs                                                                                        |
 | Database  | MySQL/PostgreSQL, KeyDB, Loki and VictoriaMetrics                                                                            |
 | Dev Tools | VSCode, Vim/NeoVim, Tmux, DBeaver, Alacritty(macOS) and Wezterm(Windows)                                                     |
 | Dev OS    | Mostly macOS and Windows, sometimes Arch Linux                                                                               |
