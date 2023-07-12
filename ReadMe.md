@@ -13,6 +13,7 @@
 | Dev OS    | Mostly macOS and Windows, sometimes Arch Linux                                                                               |
 | AI        | ChatGPT, Bard and Aria(Opera)                                                                                                |
 | CLI/TUI   | ripgrep, fd, fzf, oha, tmux, tig and curl                                                                                    |
+| Security  | Wireguard, OpenVPN, DNS over HTTPS, CDN, mTLS                                                                                |
 | DevOps    | Kubernetes, Helm, Terraform, Gitea, Drone, Traefik, Linkerd2, Cert-Manager, Grafana, AlertManager, Vector.dev and Autoscaler |
 
 #### New tech stack I'm evaluating:
