@@ -4,9 +4,8 @@
 
 * Don't really use Github nowadays
 * Experienced developer
-* Always looking for alternatives
-* There's Always Plan B
 * Performance and security are my biggest concerns
+* There's Always Plan B
 * Avatar is [Flashpoint Batman](https://vsbattles.fandom.com/wiki/Batman_(Thomas_Wayne))
 
 #### Tech stack I'm using:
