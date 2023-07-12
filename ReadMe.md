@@ -9,11 +9,11 @@
 | Language  | Go, Rust, TypeScript, Shell Script and PowerShell                                                                            |
 | Framework | Fasthttp, Actix-Web                                                                                                          |
 | Database  | MySQL/PostgreSQL, KeyDB, Loki and VictoriaMetrics                                                                            |
-| DevOps    | Kubernetes, Helm, Terraform, Gitea, Drone, Traefik, Linkerd2, Cert-Manager, Grafana, AlertManager, Vector.dev and Autoscaler |
 | Dev Tools | VSCode, Vim/NeoVim, Tmux, DBeaver, Alacritty(macOS) and Wezterm(Windows)                                                     |
 | Dev OS    | Mostly macOS and Windows, sometimes Arch Linux                                                                               |
-| CLI/TUI   | ripgrep, fd, fzf, oha, tmux, tig and curl                                                                                    |
 | AI        | ChatGPT, Bard and Aria(Opera)                                                                                                |
+| CLI/TUI   | ripgrep, fd, fzf, oha, tmux, tig and curl                                                                                    |
+| DevOps    | Kubernetes, Helm, Terraform, Gitea, Drone, Traefik, Linkerd2, Cert-Manager, Grafana, AlertManager, Vector.dev and Autoscaler |
 
 #### New tech stack I'm evaluating:
 
