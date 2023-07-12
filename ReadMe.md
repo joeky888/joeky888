@@ -1,6 +1,13 @@
-### Hey 👋, this is a brief version of my resume.
+### Hey 👋
 
 #### Most of the time work as a FinTech backend developer and DevOps manager. Code as performant and secure as possible.
+
+* Don't really use Github nowadays
+* Experienced developer
+* Always looking for alternatives
+* There's Always Plan B
+* Performance and security are my biggest concerns
+* Avatar is [Flashpoint Batman](https://vsbattles.fandom.com/wiki/Batman_(Thomas_Wayne))
 
 #### Tech stack I'm using:
 
