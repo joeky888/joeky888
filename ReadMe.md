@@ -1,7 +1,5 @@
 ### Hey 👋, this is a brief version of my resume.
 
-[![Github](https://img.shields.io/github/followers/joeky888?label=Follow&style=social)](https://github.com/joeky888)
-
 #### Most of the time work as a FinTech backend developer and DevOps manager. Code as performant and secure as possible.
 
 #### Tech stack I'm using:
