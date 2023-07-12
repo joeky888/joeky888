@@ -15,6 +15,7 @@
 | Dev Tools | VSCode, Vim/NeoVim, Tmux, DBeaver, Alacritty(macOS) and Wezterm(Windows)                                                     |
 | Dev OS    | Mostly macOS and Windows, sometimes Arch Linux                                                                               |
 | CLI/TUI   | ripgrep, fd, fzf, oha, tmux, tig and curl                                                                                    |
+| AI        | ChatGPT, Bard and Aria(Opera)                                                                                                |
 
 #### New tech stack I'm evaluating:
 
