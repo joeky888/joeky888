@@ -9,17 +9,17 @@
 
 #### Tech stack I'm using:
 
-| Tech      | Including but not limited to                                                                                                 |
-| --------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Language  | Go, Rust, TypeScript, Shell Script and PowerShell                                                                            |
-| Framework | Fiber, Fasthttp, Actix-Web, Ethers-rs                                                                                        |
-| Database  | MySQL/PostgreSQL, KeyDB, Loki and VictoriaMetrics                                                                            |
-| Dev Tools | VSCode, Vim/NeoVim, Tmux, DBeaver, Alacritty(macOS) and Wezterm(Windows)                                                     |
-| Dev OS    | Mostly macOS and Windows, sometimes Arch Linux                                                                               |
-| AI        | ChatGPT, Bard and Aria(Opera)                                                                                                |
-| CLI/TUI   | ripgrep, fd, fzf, oha, tmux, tig and curl                                                                                    |
-| Security  | Wireguard, OpenVPN, DNS over HTTPS, CDN, mTLS, WAF                                                                           |
-| DevOps    | Kubernetes, Helm, Terraform, Gitea, Drone, Traefik, Linkerd2, Cert-Manager, Grafana, AlertManager, Vector.dev and Autoscaler |
+| Tech      | Including but not limited to                                                                                                            |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Language  | Go, Rust, TypeScript, Shell Script and PowerShell                                                                                       |
+| Framework | Fiber, Fasthttp, Actix-Web, Ethers-rs, Pyroscope                                                                                        |
+| Database  | MySQL/PostgreSQL, KeyDB, Loki and VictoriaMetrics                                                                                       |
+| Dev Tools | VSCode, Vim/NeoVim, Tmux, DBeaver, Alacritty(macOS) and Wezterm(Windows)                                                                |
+| Dev OS    | Mostly macOS and Windows, sometimes Arch Linux                                                                                          |
+| AI        | ChatGPT, Bard and Aria(Opera)                                                                                                           |
+| CLI/TUI   | ripgrep, fd, fzf, oha, tmux, tig and curl                                                                                               |
+| Security  | Wireguard, OpenVPN, DNS over HTTPS, CDN, mTLS, WAF                                                                                      |
+| DevOps    | Kubernetes, Helm, Terraform, Gitea, Drone, Traefik, Linkerd2, Cert-Manager, Grafana, AlertManager, Pyroscope, Vector.dev and Autoscaler |
 
 #### New tech stack I'm evaluating:
 
