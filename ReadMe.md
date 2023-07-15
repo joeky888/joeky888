@@ -28,7 +28,7 @@
 | Language | Zig(As an alternative to unsafe rust) and WebAssembly                                                    |
 | Runtime  | Deno and Bun                                                                                             |
 | Database | TiDB/YugabyteDB/Tigerbeetledb, ClickHouse/DataBend, Cassandra/ScyllaDB, DGraph/SurrealDB and DragonflyDB |
-| DevOps   | VictoriaLogs, ArgoCD and OpenObserve                                                                     |
+| DevOps   | Cilium, VictoriaLogs, ArgoCD and OpenObserve                                                             |
 | MQ       | Redpanda                                                                                                 |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeky888&hide=html&theme=dark)
