@@ -23,13 +23,20 @@
 
 #### New tech stack I'm evaluating:
 
-| Tech     |                                                                                                          |
-| -------- | -------------------------------------------------------------------------------------------------------- |
-| Language | Zig(As an alternative to unsafe rust) and WebAssembly                                                    |
-| Runtime  | Deno and Bun                                                                                             |
-| Database | TiDB/YugabyteDB/Tigerbeetledb, ClickHouse/DataBend, Cassandra/ScyllaDB, DGraph/SurrealDB and DragonflyDB |
-| DevOps   | Cilium, VictoriaLogs, ArgoCD and OpenObserve                                                             |
-| MQ       | Redpanda                                                                                                 |
+| Tech       |                                                       |
+| ---------- | ----------------------------------------------------- |
+| Language   | Zig(As an alternative to unsafe rust) and WebAssembly |
+| Runtime    | Deno, Bun                                             |
+| OLTP       | TiDB, YugabyteDB, Tigerbeetledb                       |
+| NoSQL      | Cassandra, ScyllaDB                                   |
+| DevOps     | ArgoCD                                                |
+| Monitoring | OpenObserve                                           |
+| Mesh       | Cilium                                                |
+| Cache      | DragonflyDB                                           |
+| Graph DB   | DGraph, SurrealDB                                     |
+| OLAP       | ClickHouse, DataBend                                  |
+| TSDB       | GreptimeDB                                            |
+| MQ         | Redpanda                                              |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeky888&hide=html&theme=dark)
 ![joeky888's github stats](https://github-readme-stats.vercel.app/api?username=joeky888&show_icons=true&count_private=true&line_height=40&theme=synthwave)
