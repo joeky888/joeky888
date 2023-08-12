@@ -34,7 +34,7 @@
 | Cache      | DragonflyDB                                           |
 | Graph DB   | DGraph, SurrealDB                                     |
 | OLAP       | ClickHouse, DataBend                                  |
-| TSDB       | GreptimeDB, TDengine                                  |
+| TSDB       | GreptimeDB, TDengine, Supabase+TimescaleDB            |
 | MQ         | Redpanda                                              |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeky888&hide=html&theme=dark)
