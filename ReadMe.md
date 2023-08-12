@@ -13,7 +13,7 @@
 | --------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | Language  | Go, Rust, TypeScript, Shell Script and PowerShell                                                                                       |
 | Framework | Fiber, Fasthttp, Actix-Web, WS-tool, Ethers-rs, Pyroscope                                                                               |
-| Database  | MySQL/PostgreSQL, KeyDB, Loki and VictoriaMetrics                                                                                       |
+| Database  | MySQL/PostgreSQL, KeyDB, Loki, Cassandra(ScyllaDB) and VictoriaMetrics                                                                  |
 | Dev Tools | VSCode, Vim/NeoVim, Tmux, DBeaver, Alacritty(macOS) and Wezterm(Windows)                                                                |
 | Dev OS    | Mostly macOS and Windows, sometimes Arch Linux                                                                                          |
 | AI        | ChatGPT, Bard and Aria(Opera)                                                                                                           |
@@ -28,7 +28,6 @@
 | Language   | Zig(As an alternative to unsafe rust) and WebAssembly |
 | Runtime    | Deno, Bun                                             |
 | OLTP       | TiDB, YugabyteDB, Tigerbeetledb                       |
-| NoSQL      | Cassandra, ScyllaDB                                   |
 | DevOps     | ArgoCD                                                |
 | Monitoring | OpenObserve                                           |
 | Mesh       | Cilium                                                |
