@@ -1,4 +1,4 @@
-### Hey 👋, nice to make your acquaintance
+### Hey! nice to make your acquaintance
 
 #### Most of the time work as a FinTech backend developer and DevOps manager. Code as performant and secure as possible.
 
