@@ -13,7 +13,7 @@
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | Language       | Go, Rust, TypeScript, Shell Script and PowerShell                                                                                       |
 | Framework      | Fiber, Fasthttp, Actix-Web, WS-tool, Ethers-rs, Pyroscope                                                                               |
-| 3D Game engine | Cocos Engine (Typescript)                                                                                                               |
+| 3D Game engine | Cocos Engine (Typescript, still learning)                                                                                                               |
 | OLTP           | MySQL/PostgreSQL                                                                                                                        |
 | Key-Value DB   | Redis, KeyDB                                                                                                                            |
 | Wide-column DB | Cassandra, ScyllaDB                                                                                                                     |
