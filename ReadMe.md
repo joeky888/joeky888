@@ -1,4 +1,4 @@
-### Hey! nice to make your acquaintance
+### Hello! Nice to make your acquaintance
 
 #### Most of the time work as a FinTech backend developer and DevOps manager. Code as performant and secure as possible.
 
@@ -13,6 +13,7 @@
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | Language       | Go, Rust, TypeScript, Shell Script and PowerShell                                                                                       |
 | Framework      | Fiber, Fasthttp, Actix-Web, WS-tool, Ethers-rs, Pyroscope                                                                               |
+| 3D Game engine | Cocos Engine (Typescript)                                                                                                               |
 | OLTP           | MySQL/PostgreSQL                                                                                                                        |
 | Key-Value DB   | Redis, KeyDB                                                                                                                            |
 | Wide-column DB | Cassandra, ScyllaDB                                                                                                                     |
