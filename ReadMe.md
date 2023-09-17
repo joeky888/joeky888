@@ -13,14 +13,14 @@
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | Language       | Go, Rust, TypeScript, Shell Script and PowerShell                                                                                       |
 | Framework      | Fiber, Fasthttp, Actix-Web, WS-tool, Ethers-rs, Pyroscope                                                                               |
-| 3D Game engine | Cocos Engine (Typescript, still learning)                                                                                                               |
+| 3D Game engine | Cocos Engine (Typescript, still learning)                                                                                               |
 | OLTP           | MySQL/PostgreSQL                                                                                                                        |
 | Key-Value DB   | Redis, KeyDB                                                                                                                            |
 | Wide-column DB | Cassandra, ScyllaDB                                                                                                                     |
 | TSDB           | Loki, VictoriaMetrics                                                                                                                   |
 | Dev Tools      | VSCode, Vim/NeoVim, Tmux, DBeaver(SQL), TablePlus(NoSQL), Alacritty(macOS) and Wezterm(Windows)                                         |
 | Dev OS         | Mostly macOS and Windows, sometimes Arch Linux                                                                                          |
-| AI             | ChatGPT, Bard and Aria(Opera)                                                                                                           |
+| AI Assistants  | ChatGPT, Bard and Aria(Opera)                                                                                                           |
 | CLI/TUI        | ripgrep, fd, fzf, oha, tmux, tig and curl                                                                                               |
 | Security       | Wireguard, OpenVPN, DNS over HTTPS, CDN, mTLS, WAF                                                                                      |
 | DevOps         | Kubernetes, Helm, Terraform, Gitea, Drone, Traefik, Linkerd2, Cert-Manager, Grafana, AlertManager, Pyroscope, Vector.dev and Autoscaler |
