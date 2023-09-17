@@ -29,6 +29,7 @@
 | Tech       |                                                       |
 | ---------- | ----------------------------------------------------- |
 | Language   | Zig(As an alternative to unsafe rust) and WebAssembly |
+| IoT Edge   | Hono                                                  |
 | Runtime    | Deno, Bun                                             |
 | OLTP       | TiDB, YugabyteDB, Tigerbeetledb                       |
 | DevOps     | ArgoCD                                                |
