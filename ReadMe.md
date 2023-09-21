@@ -1,6 +1,6 @@
-### Hello! Nice to make your acquaintance
+### Hello 👋
 
-#### Most of the time work as a FinTech backend developer and DevOps manager. Code as performant and secure as possible.
+#### Most of the time work as a FinTech backend developer, 2&3D Game frontend developer and DevOps manager.
 
 * Don't really use Github nowadays
 * Experienced developer
