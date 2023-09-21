@@ -1,6 +1,6 @@
 ### Hello 👋
 
-#### Most of the time work as a FinTech backend developer, 2&3D Game frontend developer and DevOps manager.
+Most of the time work as a FinTech backend developer, 2&3D Game frontend developer and DevOps manager.
 
 * Don't really use Github nowadays
 * Experienced developer
