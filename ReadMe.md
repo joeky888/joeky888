@@ -36,6 +36,7 @@ Most of the time work as a FinTech backend developer, 2&3D Game frontend develop
 | DevOps     | ArgoCD                                     |
 | Monitoring | OpenObserve                                |
 | Mesh       | Cilium                                     |
+| KV         | Kine                                       |
 | Cache      | DragonflyDB                                |
 | Graph DB   | DGraph, SurrealDB                          |
 | OLAP       | ClickHouse, DataBend                       |
