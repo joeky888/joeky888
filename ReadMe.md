@@ -40,7 +40,7 @@ Most of the time work as a FinTech backend developer, 2&3D Game frontend develop
 | Graph DB   | DGraph, SurrealDB                                     |
 | OLAP       | ClickHouse, DataBend                                  |
 | TSDB       | GreptimeDB, TDengine, Supabase+TimescaleDB            |
-| Streaming  | Redpanda, RisingWave                                  |
+| Streaming  | Redpanda(for NoSQL), RisingWave(For SQL)              |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeky888&hide=html&theme=dark)
 ![joeky888's github stats](https://github-readme-stats.vercel.app/api?username=joeky888&show_icons=true&count_private=true&line_height=40&theme=synthwave)
