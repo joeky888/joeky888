@@ -27,21 +27,21 @@ Most of the time work as a FinTech backend developer, 2&3D Game frontend develop
 
 #### New tech stack I'm evaluating:
 
-| Tech       |                                            |
-| ---------- | ------------------------------------------ |
-| Language   | Zig(alternative to unsafe rust)            |
-| IoT Edge   | Hono, P2PCF                                |
-| Runtime    | Deno, Bun                                  |
-| OLTP       | TiDB, YugabyteDB, Tigerbeetledb            |
-| DevOps     | ArgoCD                                     |
-| Monitoring | OpenObserve                                |
-| Mesh       | Cilium                                     |
-| KV         | Kine                                       |
-| Cache      | DragonflyDB                                |
-| Graph DB   | DGraph, SurrealDB                          |
-| OLAP       | ClickHouse, DataBend                       |
-| TSDB       | GreptimeDB, TDengine, Supabase+TimescaleDB |
-| Streaming  | Redpanda(NoSQL), RisingWave(SQL)           |
+| Tech       |                                             |
+| ---------- | ------------------------------------------- |
+| Language   | Zig(alternative to unsafe rust)             |
+| IoT Edge   | Hono, P2PCF                                 |
+| Runtime    | Deno, Bun                                   |
+| OLTP       | TiDB, YugabyteDB, Tigerbeetledb             |
+| DevOps     | ArgoCD                                      |
+| Monitoring | OpenObserve                                 |
+| Mesh       | Cilium                                      |
+| KV         | Kine(Single cluster), Consul(Multi cluster) |
+| Cache      | DragonflyDB                                 |
+| Graph DB   | DGraph, SurrealDB                           |
+| OLAP       | ClickHouse, DataBend                        |
+| TSDB       | GreptimeDB, TDengine, Supabase+TimescaleDB  |
+| Streaming  | Redpanda(NoSQL), RisingWave(SQL)            |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeky888&hide=html&theme=dark)
 ![joeky888's github stats](https://github-readme-stats.vercel.app/api?username=joeky888&show_icons=true&count_private=true&line_height=40&theme=synthwave)
