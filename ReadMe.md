@@ -30,7 +30,7 @@ Most of the time work as a FinTech backend developer, 2&3D Game frontend develop
 | Tech       |                                                       |
 | ---------- | ----------------------------------------------------- |
 | Language   | Zig(As an alternative to unsafe rust) and WebAssembly |
-| IoT Edge   | Hono                                                  |
+| IoT Edge   | Hono, P2PCF                                           |
 | Runtime    | Deno, Bun                                             |
 | OLTP       | TiDB, YugabyteDB, Tigerbeetledb                       |
 | DevOps     | ArgoCD                                                |
