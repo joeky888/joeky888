@@ -29,7 +29,7 @@ Most of the time work as a FinTech backend developer, 2&3D Game frontend develop
 
 | Tech       |                                             |
 | ---------- | ------------------------------------------- |
-| Language   | Zig(alternative to unsafe rust)             |
+| Language   | Zig(alternative to unsafe rust), Vlang      |
 | IoT Edge   | Hono, P2PCF                                 |
 | Runtime    | Deno, Bun                                   |
 | OLTP       | TiDB, YugabyteDB, Tigerbeetledb             |
