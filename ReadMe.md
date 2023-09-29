@@ -29,7 +29,7 @@ Most of the time work as a FinTech backend developer, 2&3D Game frontend develop
 
 | Tech       |                                             |
 | ---------- | ------------------------------------------- |
-| Language   | Zig(replace unsafe rust), Vlang(replace Go) |
+| Language   | Zig(replace unsafe rust), Vlang(Go w/o GC)  |
 | IoT Edge   | Hono, P2PCF                                 |
 | Runtime    | Deno, Bun                                   |
 | OLTP       | TiDB, YugabyteDB, Tigerbeetledb             |
