@@ -32,7 +32,8 @@ Most of the time work as a FinTech backend developer, 2&3D Game frontend develop
 | Language   | Zig(replace unsafe rust), Vlang(Go w/o GC)  |
 | IoT Edge   | Hono, P2PCF                                 |
 | Runtime    | Deno, Bun                                   |
-| OLTP       | TiDB, YugabyteDB, Tigerbeetledb             |
+| OLTP       | TiDB, YugabyteDB                            |
+| HFT        | TigerBeetleDB                               |
 | DevOps     | ArgoCD                                      |
 | Monitoring | OpenObserve                                 |
 | Mesh       | Cilium                                      |
