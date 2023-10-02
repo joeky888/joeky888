@@ -38,7 +38,7 @@ Most of the time work as a FinTech backend developer, 2&3D Game frontend develop
 | CI             | ArgoCD                                      |
 | Monitoring     | OpenObserve                                 |
 | Mesh           | Cilium                                      |
-| KV             | Kine(Single cluster), Consul(Multi cluster) |
+| KV hot reload  | Kine(Single cluster), Consul(Multi cluster) |
 | Cache          | DragonflyDB                                 |
 | Full-text      | Meilisearch                                 |
 | Graph DB       | DGraph, SurrealDB                           |
