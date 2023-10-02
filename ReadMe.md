@@ -31,7 +31,7 @@ Most of the time work as a FinTech backend developer, 2&3D Game frontend develop
 | -------------- | ------------------------------------------- |
 | Language       | Zig(replace unsafe rust), Vlang(Go w/o GC)  |
 | Runtime        | Deno, Bun                                   |
-| IoT            | Hono, Supabase                              |
+| IoT            | Hono, Supabase+TimescaleDB                  |
 | Mobile network | Yasio, P2PCF, WebRTC-rs                     |
 | OLTP           | TiDB, YugabyteDB                            |
 | HFT            | TigerBeetleDB                               |
