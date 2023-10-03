@@ -42,6 +42,7 @@ Most of the time work as a FinTech backend developer, 2&3D Game frontend develop
 | Hot reload env     | Kine (Single cluster), Consul (Multi cluster) |
 | Cache              | DragonflyDB                                   |
 | Full-text          | Meilisearch                                   |
+| Vector DB          | Qdrant                                        |
 | Graph DB           | DGraph, SurrealDB                             |
 | OLAP               | ClickHouse, DataBend                          |
 | TSDB               | GreptimeDB, TDengine                          |
