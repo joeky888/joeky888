@@ -1,6 +1,6 @@
 ### Hello 👋
 
-Most of the time work as a FinTech backend developer, 2&3D Game frontend developer and DevOps manager.
+Most of the time work as a FinTech backend developer, 2&3D Game frontend developer and Kubernetes DevOps manager.
 
 * Don't really use Github nowadays
 * Experienced developer
@@ -27,25 +27,25 @@ Most of the time work as a FinTech backend developer, 2&3D Game frontend develop
 
 #### New tech stack I'm evaluating:
 
-| Tech           |                                               |
-| -------------- | --------------------------------------------- |
-| Language       | Zig (replace unsafe rust), Vlang (Go w/o GC)  |
-| JS Runtime     | Deno, Bun                                     |
-| Game engine    | Unreal (PuerTS)                               |
-| IoT            | Hono, Supabase+TimescaleDB                    |
-| Mobile network | Yasio, P2PCF, WebRTC-rs                       |
-| OLTP           | TiDB, YugabyteDB                              |
-| HFT            | TigerBeetleDB                                 |
-| CI             | ArgoCD                                        |
-| Monitoring     | OpenObserve                                   |
-| Mesh           | Cilium                                        |
-| KV hot reload  | Kine (Single cluster), Consul (Multi cluster) |
-| Cache          | DragonflyDB                                   |
-| Full-text      | Meilisearch                                   |
-| Graph DB       | DGraph, SurrealDB                             |
-| OLAP           | ClickHouse, DataBend                          |
-| TSDB           | GreptimeDB, TDengine                          |
-| Streaming      | Redpanda, RisingWave (SQL)                    |
+| Tech               |                                               |
+| ------------------ | --------------------------------------------- |
+| Language           | Zig (replace unsafe rust), Vlang (Go w/o GC)  |
+| JavaScript Runtime | Deno, Bun                                     |
+| Game engine        | Unreal (PuerTS)                               |
+| IoT                | Hono, Supabase+TimescaleDB                    |
+| Mobile network     | Yasio, P2PCF, WebRTC-rs                       |
+| OLTP               | TiDB, YugabyteDB                              |
+| HFT                | TigerBeetleDB                                 |
+| CI                 | ArgoCD                                        |
+| Monitoring         | OpenObserve                                   |
+| Mesh               | Cilium                                        |
+| KV hot reload      | Kine (Single cluster), Consul (Multi cluster) |
+| Cache              | DragonflyDB                                   |
+| Full-text          | Meilisearch                                   |
+| Graph DB           | DGraph, SurrealDB                             |
+| OLAP               | ClickHouse, DataBend                          |
+| TSDB               | GreptimeDB, TDengine                          |
+| Streaming          | Redpanda, RisingWave (SQL)                    |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeky888&hide=html&theme=dark)
 ![joeky888's github stats](https://github-readme-stats.vercel.app/api?username=joeky888&show_icons=true&count_private=true&line_height=40&theme=synthwave)
