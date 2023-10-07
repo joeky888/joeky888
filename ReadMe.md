@@ -5,7 +5,7 @@ I am a(n)
 1. FinTech backend developer (Mostly)
 2. 2&3D Game frontend developer (Sometimes)
 3. Kubernetes DevOps manager (Mostly)
-4. Architectural consultant (Occasionally)
+4. System architectural consultant (Occasionally)
 
 and
 
