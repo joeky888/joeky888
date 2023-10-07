@@ -34,10 +34,10 @@ Most of the time work as a FinTech backend developer, 2&3D Game frontend develop
 | Game engine        | Unreal (PuerTS)                               |
 | IoT edge           | Hono, Supabase x TimescaleDB                  |
 | Mobile network     | Yasio, P2PCF, WebRTC-rs                       |
-| Deployment         | Nomad                                         |
 | OLTP               | TiDB, YugabyteDB                              |
 | HFT                | TigerBeetleDB                                 |
 | CI                 | ArgoCD                                        |
+| CD                 | Nomad                                         |
 | Monitoring         | OpenObserve                                   |
 | Mesh               | Cilium                                        |
 | Hot reload env     | Kine (Single cluster), Consul (Multi cluster) |
