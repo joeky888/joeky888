@@ -41,7 +41,7 @@ Most of the time work as a FinTech backend developer, 2&3D Game frontend develop
 | Monitoring         | OpenObserve                                   |
 | Mesh               | Cilium                                        |
 | Hot reload env     | Kine (Single cluster), Consul (Multi cluster) |
-| Cache              | DragonflyDB                                   |
+| Cache              | DragonflyDB, ReadySet                         |
 | Full-text          | Meilisearch                                   |
 | Vector DB          | Qdrant                                        |
 | Graph DB           | DGraph, SurrealDB                             |
