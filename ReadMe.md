@@ -1,6 +1,13 @@
 ### Hello 👋
 
-Most of the time work as a FinTech backend developer, 2&3D Game frontend developer and Kubernetes DevOps manager.
+I am a(n)
+
+1. FinTech backend developer
+2. 2&3D Game frontend developer
+3. Kubernetes DevOps manager
+4. Architectural consultant
+
+and I
 
 * Don't really use Github nowadays
 * Experienced developer
@@ -39,7 +46,7 @@ Most of the time work as a FinTech backend developer, 2&3D Game frontend develop
 | CI                 | ArgoCD                                        |
 | CD                 | Nomad                                         |
 | Monitoring         | OpenObserve                                   |
-| Mesh               | Cilium                                        |
+| Service Mesh       | Cilium                                        |
 | Hot reload env     | Kine (Single cluster), Consul (Multi cluster) |
 | Cache              | DragonflyDB, ReadySet                         |
 | Full-text          | Meilisearch                                   |
