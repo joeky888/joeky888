@@ -34,6 +34,7 @@ Most of the time work as a FinTech backend developer, 2&3D Game frontend develop
 | Game engine        | Unreal (PuerTS)                               |
 | IoT edge           | Hono, Supabase x TimescaleDB                  |
 | Mobile network     | Yasio, P2PCF, WebRTC-rs                       |
+| Deployment         | Nomad                                         |
 | OLTP               | TiDB, YugabyteDB                              |
 | HFT                | TigerBeetleDB                                 |
 | CI                 | ArgoCD                                        |
