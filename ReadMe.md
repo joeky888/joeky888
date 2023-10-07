@@ -2,12 +2,12 @@
 
 I am a(n)
 
-1. FinTech backend developer
-2. 2&3D Game frontend developer
-3. Kubernetes DevOps manager
-4. Architectural consultant
+1. FinTech backend developer (Mostly)
+2. 2&3D Game frontend developer (Sometimes)
+3. Kubernetes DevOps manager (Mostly)
+4. Architectural consultant (Occasionally)
 
-and I
+and
 
 * Don't really use Github nowadays
 * Experienced developer
