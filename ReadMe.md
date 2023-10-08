@@ -19,7 +19,7 @@ and
 | Tech          | Including but not limited to                                                                                                           |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | Language      | Go, Rust, TypeScript, Shell Script and PowerShell                                                                                      |
-| Framework     | Fiber, Fasthttp, Actix-Web, WS-tool, Ethers-rs, Pyroscope                                                                              |
+| Framework     | GoFiber, Fasthttp, Actix-Web, WS-tool, Ethers-rs, Pyroscope                                                                            |
 | Game engine   | Cocos Engine (Typescript)                                                                                                              |
 | OLTP          | MySQL/PostgreSQL                                                                                                                       |
 | Cache         | Redis, KeyDB                                                                                                                           |
