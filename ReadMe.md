@@ -52,7 +52,7 @@ and
 | Full-text          | Meilisearch                                   |
 | Vector DB          | Qdrant                                        |
 | Graph DB           | DGraph, SurrealDB                             |
-| OLAP               | ClickHouse, DataBend                          |
+| OLAP Warehouse     | ClickHouse, DataBend                          |
 | TSDB               | GreptimeDB, TDengine                          |
 | Streaming          | Redpanda, RisingWave (SQL)                    |
 
