@@ -53,7 +53,7 @@ and
 | Vector DB          | Qdrant                                        |
 | Graph DB           | DGraph, SurrealDB                             |
 | OLAP Warehouse     | ClickHouse, DataBend                          |
-| TSDB               | GreptimeDB, TDengine                          |
+| Time-series DB     | InfluxDB, GreptimeDB, TDengine                |
 | Streaming          | Redpanda, RisingWave (SQL)                    |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeky888&hide=html&theme=dark)
