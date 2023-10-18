@@ -44,7 +44,7 @@ and
 | OLTP               | TiDB, YugabyteDB                               |
 | HFT                | TigerBeetleDB                                  |
 | CI                 | ArgoCD                                         |
-| CD                 | K3s, Nomad                                     |
+| Orchestration      | K3s, Nomad                                     |
 | Monitoring         | OpenObserve                                    |
 | Service Mesh       | Cilium                                         |
 | Hot reload env     | Kine (Single cluster), Consul (Multi cluster)  |
