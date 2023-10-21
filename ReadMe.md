@@ -34,27 +34,27 @@ and
 
 #### New tech stack I'm evaluating:
 
-| Tech               |                                                |
-| ------------------ | ---------------------------------------------- |
-| Language           | Zig (replace unsafe rust), Vlang (Go w/o GC)   |
-| JavaScript Runtime | Deno, Bun                                      |
-| Game engine        | Unreal (PuerTS)                                |
-| IoT edge           | Hono, Turso, Supabase x TimescaleDB x pgvector |
-| Mobile network     | Yasio, P2PCF, WebRTC-rs                        |
-| OLTP               | TiDB, YugabyteDB                               |
-| HFT                | TigerBeetleDB                                  |
-| CI                 | ArgoCD                                         |
-| Orchestration      | K3s, Nomad                                     |
-| Monitoring         | OpenObserve                                    |
-| Service Mesh       | Cilium                                         |
-| Hot reload env     | Kine (Single cluster), Consul (Multi cluster)  |
-| Cache              | DragonflyDB, ReadySet                          |
-| Full-text          | Meilisearch                                    |
-| Vector DB          | Qdrant                                         |
-| Graph DB           | DGraph, SurrealDB                              |
-| OLAP Warehouse     | ClickHouse, DataBend                           |
-| Time-series DB     | InfluxDB, GreptimeDB, TDengine                 |
-| Streaming          | Redpanda, RisingWave (SQL)                     |
+| Tech               |                                                  |
+| ------------------ | ------------------------------------------------ |
+| Language           | Zig (replace unsafe rust), Vlang (Go w/o GC)     |
+| JavaScript Runtime | Deno, Bun                                        |
+| Game engine        | Unreal (PuerTS)                                  |
+| IoT edge           | Hono, Turso, Supabase x TimescaleDB x pgvecto.rs |
+| Mobile network     | Yasio, P2PCF, WebRTC-rs                          |
+| OLTP               | TiDB, YugabyteDB                                 |
+| HFT                | TigerBeetleDB                                    |
+| CI                 | ArgoCD                                           |
+| Orchestration      | K3s, Nomad                                       |
+| Monitoring         | OpenObserve                                      |
+| Service Mesh       | Cilium                                           |
+| Hot reload env     | Kine (Single cluster), Consul (Multi cluster)    |
+| Cache              | DragonflyDB, ReadySet                            |
+| Full-text          | Meilisearch                                      |
+| Vector DB          | Qdrant                                           |
+| Graph DB           | DGraph, SurrealDB                                |
+| OLAP Warehouse     | ClickHouse, DataBend                             |
+| Time-series DB     | InfluxDB, GreptimeDB, TDengine                   |
+| Streaming          | Redpanda, RisingWave (SQL)                       |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeky888&hide=html&theme=dark)
 ![joeky888's github stats](https://github-readme-stats.vercel.app/api?username=joeky888&show_icons=true&count_private=true&line_height=40&theme=synthwave)
