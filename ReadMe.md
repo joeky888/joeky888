@@ -23,7 +23,7 @@ and
 | Game engine   | Cocos Engine (Typescript)                                                                                                              |
 | OLTP          | MySQL/PostgreSQL                                                                                                                       |
 | Cache         | Redis, KeyDB                                                                                                                           |
-| Wide-column   | Cassandra, ScyllaDB                                                                                                                    |
+| Wide column   | Cassandra, ScyllaDB                                                                                                                    |
 | TSDB          | Loki, VictoriaMetrics                                                                                                                  |
 | Dev Tools     | VSCode, (Neo)Vim, Tmux, DBeaver (SQL), TablePlus (NoSQL), Alacritty (macOS) and Wezterm (Windows)                                      |
 | Dev OS        | Mostly macOS and Windows, sometimes Arch Linux                                                                                         |
