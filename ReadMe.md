@@ -28,7 +28,7 @@ and
 | Dev Tools     | VSCode, (Neo)Vim, Tmux, DBeaver (SQL), TablePlus (NoSQL), Alacritty (macOS) and Wezterm (Windows)                                      |
 | Dev OS        | Mostly macOS and Windows, sometimes Arch Linux                                                                                         |
 | AI Assistants | ChatGPT, Bard and Aria(Opera)                                                                                                          |
-| CLI/TUI       | ripgrep, fd, fzf, oha, tmux, tig, dnslookup, mtr and curl                                                                              |
+| CLI/TUI       | ripgrep, fd, fzf, oha, tmux, tig, gitui, dnslookup, mtr and curl                                                                       |
 | Security      | Wireguard, OpenVPN, DNS over HTTPS, CDN, mTLS, WAF                                                                                     |
 | InfoSec       | traitor, sqlmap, masscan(speed), nmap(accuracy)                                                                                        |
 | DevOps        | Kubernetes, Helm, Terraform, Gitea, Drone (Gitness), Traefik, Linkerd2, Cert-Manager, Grafana, AlertManager, Vector.dev and Autoscaler |
