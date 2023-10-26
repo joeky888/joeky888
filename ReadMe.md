@@ -38,6 +38,7 @@ and
 | Tech               |                                                          |
 | ------------------ | -------------------------------------------------------- |
 | Language           | Zig (replace unsafe rust), Vlang (Go w/o GC)             |
+| Binary Analysis    | ImHex, Tracy Profiler                                    |
 | JavaScript Runtime | Deno, Bun                                                |
 | Game engine        | Unreal (PuerTS)                                          |
 | IoT edge           | Honojs, Turso, Supabase x TimescaleDB x pgvecto.rs       |
