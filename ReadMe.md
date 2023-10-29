@@ -52,7 +52,7 @@ and
 | Hot reload env     | Kine (Single cluster), Consul (Multi cluster)               |
 | Cache              | DragonflyDB, ReadySet                                       |
 | Full-text          | Meilisearch                                                 |
-| Vector DB          | Qdrant                                                      |
+| Vector DB          | Milvus (GPU), Qdrant (CPU)                                  |
 | Graph DB           | DGraph, SurrealDB                                           |
 | OLAP Warehouse     | ClickHouse, DataBend                                        |
 | Time-series DB     | InfluxDB 3 (Closed source for now), GreptimeDB, TDengine    |
