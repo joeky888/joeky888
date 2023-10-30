@@ -49,7 +49,7 @@ and
 | Orchestration      | K3s, Nomad                                                  |
 | Monitoring         | OpenObserve                                                 |
 | Service Mesh       | Cilium                                                      |
-| Hot reload env     | Kine (Single cluster), Consul (Multi cluster)               |
+| Hot ENV            | Kine (Single cluster), Consul (Multi cluster)               |
 | Cache              | DragonflyDB, ReadySet                                       |
 | Full-text          | Meilisearch                                                 |
 | Vector DB          | Milvus (GPU), Qdrant (CPU)                                  |
