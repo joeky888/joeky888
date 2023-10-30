@@ -38,7 +38,7 @@ and
 | Tech               |                                                             |
 | ------------------ | ----------------------------------------------------------- |
 | Language           | Zig (replace unsafe rust), Vlang (Obfuscation, AV Evasion ) |
-| Binary Analysis    | ImHex, Tracy Profiler                                       |
+| Binary Analysis    | ImHex (Patch), Tracy Profiler                               |
 | JavaScript Runtime | Deno, Bun                                                   |
 | Game engine        | Unreal (PuerTS)                                             |
 | IoT edge           | Honojs, Turso, Supabase x TimescaleDB x pgvecto.rs          |
@@ -49,7 +49,7 @@ and
 | Orchestration      | K3s, Nomad                                                  |
 | Monitoring         | OpenObserve                                                 |
 | Service Mesh       | Cilium                                                      |
-| Hot ENV            | Kine (Single cluster), Consul (Multi cluster)               |
+| Hot ENV            | Kine, Consul (Multi cluster)                                |
 | Cache              | DragonflyDB, ReadySet                                       |
 | Full-text          | Meilisearch                                                 |
 | Vector DB          | Milvus (GPU), Qdrant (CPU)                                  |
