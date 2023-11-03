@@ -41,7 +41,7 @@ and
 | Binary Analysis    | ImHex (Patch), Tracy Profiler                               |
 | JavaScript Runtime | Deno, Bun                                                   |
 | Game engine        | Unreal (PuerTS)                                             |
-| IoT edge           | Honojs, Turso, Supabase x TimescaleDB x pgvecto.rs          |
+| IoT edge           | Honojs, Htmx, Turso, Supabase x TimescaleDB x pgvecto.rs    |
 | Mobile network     | Yasio, P2PCF, WebRTC-rs                                     |
 | OLTP               | TiDB, YugabyteDB                                            |
 | HFT                | TigerBeetleDB                                               |
