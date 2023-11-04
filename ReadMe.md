@@ -2,9 +2,9 @@
 
 I am a(n)
 
-1. FinTech backend developer (Mostly)
-2. 2&3D Game frontend developer (Sometimes)
-3. Kubernetes DevOps manager (Mostly)
+1. FinTech Backend Developer (Mostly)
+2. 2&3D Game Frontend Developer (Sometimes)
+3. Kubernetes DevOps Manager (Mostly)
 4. System Architecture Consultant (Occasionally)
 
 and
