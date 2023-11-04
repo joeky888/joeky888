@@ -48,7 +48,7 @@ and
 | HFT                | TigerBeetleDB                                               |
 | CI                 | ArgoCD                                                      |
 | Orchestration      | K3s, Nomad                                                  |
-| Monitoring         | Netdata, OpenObserve                                        |
+| Monitoring         | Netdata, OpenObserve, Sniffnet                              |
 | Service Mesh       | Cilium                                                      |
 | Hot ENV            | Kine, Consul (Multi cluster)                                |
 | Cache              | DragonflyDB, ReadySet                                       |
