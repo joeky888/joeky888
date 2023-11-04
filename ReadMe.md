@@ -39,7 +39,7 @@ and
 | ------------------ | ----------------------------------------------------------- |
 | Language           | Zig (replace unsafe rust), Vlang (Obfuscation, AV Evasion ) |
 | Binary Analysis    | ImHex (Patch), Tracy Profiler                               |
-| JavaScript Runtime | Deno, Bun                                                   |
+| JS/TS Runtime      | Deno, Bun                                                   |
 | Game engine        | Unreal (PuerTS)                                             |
 | IoT edge           | Honojs, Htmx, Supabase x TimescaleDB x pgvecto.rs           |
 | Mobile network     | Yasio, P2PCF, WebRTC-rs                                     |
@@ -47,7 +47,7 @@ and
 | HFT                | TigerBeetleDB                                               |
 | CI                 | ArgoCD                                                      |
 | Orchestration      | K3s, Nomad                                                  |
-| Monitoring         | Netdata, OpenObserve                                        |
+| Monitoring (No DB) | Netdata, OpenObserve                                        |
 | Service Mesh       | Cilium                                                      |
 | Hot ENV            | Kine, Consul (Multi cluster)                                |
 | Cache              | DragonflyDB, ReadySet                                       |
