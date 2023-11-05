@@ -57,6 +57,7 @@ and
 | Graph DB           | DGraph, SurrealDB                                           |
 | OLAP Warehouse     | ClickHouse, DataBend                                        |
 | Time-series DB     | InfluxDB 3 (Closed source for now), GreptimeDB, TDengine    |
+| LLM                | PostgresML                                                  |
 | Streaming          | Redpanda, RisingWave (SQL)                                  |
 | Project Management | AppFlowy, RocketChat                                        |
 
