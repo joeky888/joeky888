@@ -31,7 +31,7 @@ and
 | CLI/TUI       | ripgrep, fd, fzf, oha, tmux, htop, btop, tig, gitui, dnslookup, mtr and curl                                                           |
 | InfoSec       | Wireguard, OpenVPN, DNS over HTTPS, CDN, mTLS, WAF                                                                                     |
 | Hacking       | traitor, sqlmap, masscan, nmap, hashcat, gitleaks                                                                                      |
-| DevOps        | Kubernetes, Helm, Terraform, Gitea, Drone (Gitness), Traefik, Linkerd2, Cert-Manager, Grafana, AlertManager, Vector.dev and Autoscaler |
+| Cloud Native  | Kubernetes, Helm, Terraform, Gitea, Drone (Gitness), Traefik, Linkerd2, Cert-Manager, Grafana, AlertManager, Vector.dev and Autoscaler |
 
 #### New tech stack I'm evaluating:
 
