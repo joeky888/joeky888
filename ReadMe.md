@@ -59,7 +59,7 @@ and
 | Time-series DB     | InfluxDB 3 (Closed source for now), GreptimeDB, TDengine    |
 | LLM                | PostgresML                                                  |
 | Streaming          | Redpanda, RisingWave (SQL)                                  |
-| Project Management | AppFlowy, RocketChat                                        |
+| Project Management | AppFlowy, RocketChat x FerretDB                             |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeky888&hide=html&theme=dark)
 ![joeky888's github stats](https://github-readme-stats.vercel.app/api?username=joeky888&show_icons=true&count_private=true&line_height=40&theme=synthwave)
