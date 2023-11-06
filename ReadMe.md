@@ -35,31 +35,32 @@ and
 
 #### New tech stack I'm evaluating:
 
-| Tech               |                                                             |
-| ------------------ | ----------------------------------------------------------- |
-| Language           | Zig (replace unsafe rust), Vlang (Obfuscation, AV Evasion ) |
-| CLI/TUI            | Zellij, git-delta, Ntop (Windows), Zenith (macOS/Linux)     |
-| Binary Analysis    | ImHex (Patch), Tracy Profiler                               |
-| JS/TS Runtime      | Deno, Bun                                                   |
-| Game engine        | Unreal (PuerTS)                                             |
-| IoT edge           | Honojs, Htmx, Supabase x TimescaleDB x pgvecto.rs           |
-| Mobile network     | Yasio, P2PCF, WebRTC-rs                                     |
-| OLTP               | TiDB, YugabyteDB                                            |
-| HFT                | TigerBeetleDB                                               |
-| CI                 | ArgoCD                                                      |
-| Orchestration      | K3s, Nomad                                                  |
-| Monitoring         | Netdata, OpenObserve, Sniffnet                              |
-| Service Mesh       | Cilium                                                      |
-| Hot ENV            | Kine, Consul (Multi cluster)                                |
-| Cache              | DragonflyDB, ReadySet                                       |
-| Full-text          | Meilisearch                                                 |
-| Vector DB          | Milvus (GPU), Qdrant (CPU)                                  |
-| Graph DB           | DGraph, SurrealDB                                           |
-| OLAP Warehouse     | ClickHouse, DataBend                                        |
-| Time-series DB     | InfluxDB 3 (Closed source for now), GreptimeDB, TDengine    |
-| LLM                | PostgresML                                                  |
-| Streaming          | Redpanda, RisingWave (SQL)                                  |
-| Project Management | AppFlowy, RocketChat x FerretDB                             |
+| Tech               |                                                              |
+| ------------------ | ------------------------------------------------------------ |
+| Language           | Zig (replace unsafe rust), Vlang (Obfuscation, AV Evasion )  |
+| CLI/TUI            | Zellij, git-delta, Ntop (Windows), Zenith (macOS/Linux), frp |
+| Binary Analysis    | ImHex (Patch), Tracy Profiler                                |
+| JS/TS Runtime      | Deno, Bun                                                    |
+| Game engine        | Unreal (PuerTS)                                              |
+| IoT edge           | Honojs, Htmx, Supabase x TimescaleDB x pgvecto.rs            |
+| Mobile network     | Yasio, P2PCF, WebRTC-rs                                      |
+| NAT Penetration    | frp, rathole                                                 |
+| OLTP               | TiDB, YugabyteDB                                             |
+| HFT                | TigerBeetleDB                                                |
+| CI                 | ArgoCD                                                       |
+| Orchestration      | K3s, Nomad                                                   |
+| Monitoring         | Netdata, OpenObserve, Sniffnet                               |
+| Service Mesh       | Cilium                                                       |
+| Hot ENV            | Kine, Consul (Multi cluster)                                 |
+| Cache              | DragonflyDB, ReadySet                                        |
+| Full-text          | Meilisearch                                                  |
+| Vector DB          | Milvus (GPU), Qdrant (CPU)                                   |
+| Graph DB           | DGraph, SurrealDB                                            |
+| OLAP Warehouse     | ClickHouse, DataBend                                         |
+| Time-series DB     | InfluxDB 3 (Closed source for now), GreptimeDB, TDengine     |
+| LLM                | PostgresML                                                   |
+| Streaming          | Redpanda, RisingWave (SQL)                                   |
+| Project Management | AppFlowy, RocketChat x FerretDB                              |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeky888&hide=html&theme=dark)
 ![joeky888's github stats](https://github-readme-stats.vercel.app/api?username=joeky888&show_icons=true&count_private=true&line_height=40&theme=synthwave)
