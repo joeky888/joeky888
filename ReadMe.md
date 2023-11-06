@@ -16,22 +16,22 @@ and
 
 #### Tech stack I'm using:
 
-| Tech          | Including but not limited to                                                                                                           |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| Language      | Go, Rust, TypeScript, Shell Script and PowerShell                                                                                      |
-| Framework     | GoFiber, Fasthttp, Actix-Web, WS-tool, Ethers-rs, Pyroscope                                                                            |
-| Game engine   | Cocos Engine (Typescript)                                                                                                              |
-| OLTP          | MySQL/PostgreSQL                                                                                                                       |
-| Cache         | Redis, KeyDB                                                                                                                           |
-| Wide column   | Cassandra, ScyllaDB                                                                                                                    |
-| TSDB          | Loki, VictoriaMetrics                                                                                                                  |
-| Dev Tools     | VSCode, (Neo)Vim, Tmux, DBeaver (SQL), TablePlus (NoSQL), Alacritty (macOS) and Wezterm (Windows)                                      |
-| Dev OS        | Mostly macOS and Windows, sometimes Arch Linux                                                                                         |
-| AI Assistants | ChatGPT, Bard and Aria(Opera)                                                                                                          |
-| CLI/TUI       | ripgrep, fd, fzf, oha, tmux, htop, btop, tig, gitui, dnslookup, mtr and curl                                                           |
-| InfoSec       | Wireguard, OpenVPN, DNS over HTTPS, CDN, mTLS, WAF                                                                                     |
-| Hacking       | traitor, sqlmap, masscan, nmap, hashcat, gitleaks                                                                                      |
-| Cloud Native  | Kubernetes, Helm, Terraform, Gitea, Drone (Gitness), Traefik, Linkerd2, Cert-Manager, Grafana, AlertManager, Vector.dev and Autoscaler |
+| Tech          | Including but not limited to                                                                                                                           |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Language      | Go, Rust, TypeScript, Shell Script and PowerShell                                                                                                      |
+| Framework     | GoFiber, Fasthttp, Actix-Web, WS-tool, Ethers-rs, Pyroscope                                                                                            |
+| Game engine   | Cocos Engine (Typescript)                                                                                                                              |
+| OLTP          | MySQL/PostgreSQL                                                                                                                                       |
+| Cache         | Redis, KeyDB                                                                                                                                           |
+| Wide column   | Cassandra, ScyllaDB                                                                                                                                    |
+| TSDB          | Loki, VictoriaMetrics                                                                                                                                  |
+| Dev Tools     | VSCode, (Neo)Vim, Tmux, DBeaver (SQL), TablePlus (NoSQL), Alacritty (macOS) and Wezterm (Windows)                                                      |
+| Dev OS        | Mostly macOS and Windows, sometimes Arch Linux                                                                                                         |
+| AI Assistants | ChatGPT, Bard and Aria(Opera)                                                                                                                          |
+| CLI/TUI       | ripgrep, fd, fzf, oha, tmux, htop, btop, tig, gitui, dnslookup, mtr and curl                                                                           |
+| InfoSec       | Wireguard, OpenVPN, DNS over HTTPS, CDN, mTLS, WAF                                                                                                     |
+| Hacking       | traitor, sqlmap, masscan, nmap, hashcat, gitleaks                                                                                                      |
+| Cloud Native  | Kubernetes, Helm, Terraform, Gitea, Drone (Gitness), Github Actions, Traefik, Linkerd2, Cert-Manager, Grafana, AlertManager, Vector.dev and Autoscaler |
 
 #### New tech stack I'm evaluating:
 
