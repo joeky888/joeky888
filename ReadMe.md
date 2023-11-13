@@ -43,7 +43,7 @@ and
 | Binary Analysis    | ImHex (Patch), Tracy Profiler                               |
 | NAT Penetration    | frp, rathole                                                |
 | Game engine        | Unreal (PuerTS)                                             |
-| IoT edge           | Honojs, Htmx, Supabase x TimescaleDB x pgvecto.rs           |
+| IoT edge           | Honojs, Htmx, Qwik, Supabase x TimescaleDB x pgvecto.rs     |
 | Mobile network     | Yasio, P2PCF, WebRTC-rs                                     |
 | OLTP               | TiDB, YugabyteDB                                            |
 | HFT                | TigerBeetleDB                                               |
