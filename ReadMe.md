@@ -44,7 +44,7 @@ and
 | NAT Penetration    | frp, rathole                                                |
 | Game engine        | Unreal (PuerTS)                                             |
 | IoT edge           | Honojs, Htmx, Qwik, Supabase x TimescaleDB x pgvecto.rs     |
-| Mobile network     | Yasio, P2PCF, WebRTC-rs                                     |
+| Weak network       | Yasio, P2PCF, WebRTC-rs                                     |
 | OLTP               | TiDB, YugabyteDB                                            |
 | HFT                | TigerBeetleDB                                               |
 | CI                 | ArgoCD                                                      |
