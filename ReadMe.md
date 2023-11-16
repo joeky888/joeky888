@@ -37,7 +37,7 @@ and
 
 | Tech               |                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------- |
-| Language           | Zig (replace unsafe rust), Vlang (Obfuscation, AV Evasion )                        |
+| Language           | Zig (replace unsafe rust), Vlang (Obfuscation, AV Evasion, Crawler)                |
 | JS/TS Runtime      | Deno, Bun                                                                          |
 | CLI/TUI            | Zellij, git-delta, Ntop (Windows), Zenith (macOS/Linux)                            |
 | Binary Analysis    | ImHex (Patch), Tracy Profiler                                                      |
