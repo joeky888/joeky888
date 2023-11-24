@@ -45,7 +45,7 @@ and
 | Game engine        | Unreal (PuerTS)                                                                    |
 | IoT edge           | Honojs, Htmx, Qwik x Web Workers, Supabase x TimescaleDB x pgvecto.rs x PostgresML |
 | Weak network       | Yasio, P2PCF, WebRTC-rs                                                            |
-| OLTP               | TiDB, YugabyteDB                                                                   |
+| OLTP               | TiDB (No funcs, no triggers), YugabyteDB                                           |
 | HFT                | TigerBeetleDB                                                                      |
 | CI                 | ArgoCD                                                                             |
 | Orchestration      | K3s, Nomad                                                                         |
@@ -53,7 +53,7 @@ and
 | Service Mesh       | Cilium                                                                             |
 | Hot ENV            | Kine, Consul (Multi cluster)                                                       |
 | Cache              | DragonflyDB, ReadySet                                                              |
-| Full-text          | Meilisearch                                                                        |
+| Full-text          | Meilisearch, ManticoreSearch                                                       |
 | Vector DB          | Milvus (GPU), Qdrant (CPU), Turso (Faiss)                                          |
 | Graph DB           | DGraph, SurrealDB                                                                  |
 | OLAP Warehouse     | ClickHouse, DataBend                                                               |
