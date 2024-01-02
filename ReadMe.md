@@ -55,7 +55,7 @@ and
 | Cache              | DragonflyDB, ReadySet                                                                        |
 | Full-text          | Meilisearch, ManticoreSearch                                                                 |
 | Vector DB          | Milvus (GPU), Qdrant (CPU), Turso (Faiss)                                                    |
-| Graph DB           | DGraph, SurrealDB                                                                            |
+| Document/Graph DB  | DGraph, SurrealDB                                                                            |
 | OLAP Warehouse     | ClickHouse, DataBend                                                                         |
 | Time-series DB     | InfluxDB 3 (Closed source for now), GreptimeDB, TDengine                                     |
 | Streaming          | Redpanda, RisingWave (SQL)                                                                   |
