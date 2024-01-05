@@ -58,7 +58,8 @@ and
 | Document/Graph DB  | DGraph, SurrealDB                                                                            |
 | OLAP Warehouse     | ClickHouse, DataBend                                                                         |
 | Time-series DB     | InfluxDB 3 (Closed source for now), GreptimeDB, TDengine                                     |
-| Streaming          | Redpanda, RisingWave (SQL)                                                                   |
+| Streaming          | Iggy, Redpanda                                                                               |
+| stream processing  | RisingWave, Arroyo                                                                           |
 | Project Management | MakePlane, AppFlowy, Zulip (PG), RocketChat (Mongo, FerretDB)                                |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeky888&hide=html&theme=dark)
