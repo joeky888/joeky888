@@ -28,7 +28,7 @@ and
 | Dev Tools     | VSCode, (Neo)Vim, Tmux, DBeaver (SQL), TablePlus (NoSQL), Alacritty (macOS) and Wezterm (Windows)                                                      |
 | Dev OS        | Mostly macOS and Windows, sometimes Arch Linux                                                                                                         |
 | AI Assistants | ChatGPT, Bard and Aria(Opera)                                                                                                                          |
-| CLI/TUI       | ripgrep, fd, fzf, oha, zellij, tmux, htop, btop, tig, gitui, dnslookup, mtr and curl                                                                   |
+| CLI/TUI       | ripgrep, fd, fzf, oha, zellij, tmux, htop, btop, bottom, tig, gitui, dnslookup, mtr and curl                                                           |
 | InfoSec       | Wireguard, OpenVPN, DNS over HTTPS, CDN, mTLS, WAF                                                                                                     |
 | Hacking       | traitor, sqlmap, masscan, nmap, hashcat, gitleaks                                                                                                      |
 | Cloud Native  | Kubernetes, Helm, Terraform, Gitea, Drone (Gitness), Github Actions, Traefik, Linkerd2, Cert-Manager, Grafana, AlertManager, Vector.dev and Autoscaler |
@@ -59,7 +59,7 @@ and
 | OLAP Warehouse     | ClickHouse, DataBend                                                                         |
 | Time-series DB     | InfluxDB 3 (Closed source for now), GreptimeDB, TDengine                                     |
 | Streaming          | Iggy, Redpanda                                                                               |
-| stream processing  | RisingWave, Arroyo                                                                           |
+| Stream processing  | RisingWave, Arroyo                                                                           |
 | Project Management | MakePlane, AppFlowy, Zulip (PG), RocketChat (Mongo, FerretDB)                                |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeky888&hide=html&theme=dark)
