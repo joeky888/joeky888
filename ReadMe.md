@@ -43,6 +43,7 @@ and
 | Binary Analysis    | ImHex (Patch), Tracy Profiler                                                                |
 | NAT Penetration    | frp, rathole                                                                                 |
 | Game engine        | Unreal (PuerTS)                                                                              |
+| File System        | Bcachefs (Linux 6.7+)                                                                        |
 | IoT edge           | Honojs, libSQL, DuckDB, Qwik x Web Workers, Supabase x TimescaleDB x pgvecto.rs x PostgresML |
 | Weak network       | Yasio, P2PCF, WebRTC-rs                                                                      |
 | OLTP               | TiDB (No funcs, no triggers), YugabyteDB                                                     |
