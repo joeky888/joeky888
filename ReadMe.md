@@ -49,6 +49,7 @@ and
 | OLTP               | TiDB (No funcs, no triggers), YugabyteDB                                                     |
 | HFT                | TigerBeetleDB                                                                                |
 | CI                 | ArgoCD                                                                                       |
+| AI                 | Jan.ai                                                                                       |
 | Orchestration      | K3s, Nomad                                                                                   |
 | Monitoring         | Netdata, OpenObserve, Sniffnet                                                               |
 | Service Mesh       | Cilium                                                                                       |
