@@ -28,9 +28,10 @@ and
 | Dev Tools     | VSCode, (Neo)Vim, Tmux, DBeaver (SQL), TablePlus (NoSQL), Alacritty (macOS) and Wezterm (Windows)                                                      |
 | Dev OS        | Mostly macOS and Windows, sometimes Arch Linux                                                                                                         |
 | AI Assistants | ChatGPT, Bard and Aria(Opera)                                                                                                                          |
-| CLI/TUI       | ripgrep, fd, fzf, oha, zellij, tmux, htop, btop, bottom, tig, gitui, dnslookup, mtr and curl                                                           |
+| CLI/TUI       | fastfetch, ripgrep, fd, fzf, oha, zellij, tmux, htop, btop, bottom, dnslookup, mtr and curl                                                            |
+| Git           | tig, gitui, onefetch, gitleaks                                                                                                                         |
 | InfoSec       | Wireguard, OpenVPN, DNS over HTTPS, CDN, mTLS, WAF                                                                                                     |
-| Hacking       | traitor, sqlmap, masscan, nmap, hashcat, gitleaks                                                                                                      |
+| Hacking       | traitor, sqlmap, masscan, nmap, hashcat                                                                                                                |
 | Cloud Native  | Kubernetes, Helm, Terraform, Gitea, Drone (Gitness), Github Actions, Traefik, Linkerd2, Cert-Manager, Grafana, AlertManager, Vector.dev and Autoscaler |
 
 #### New tech stack I'm evaluating:
