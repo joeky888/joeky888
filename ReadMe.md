@@ -59,7 +59,7 @@ and
 | Full-text          | Meilisearch, ManticoreSearch                                                                 |
 | Vector DB          | Milvus (GPU), Qdrant (CPU), Turso (Faiss)                                                    |
 | Document/Graph DB  | DGraph, SurrealDB                                                                            |
-| OLAP Warehouse     | ClickHouse, DataBend                                                                         |
+| OLAP Warehouse     | ParadeDB, ClickHouse, DataBend                                                               |
 | Time-series DB     | InfluxDB 3 (Closed source for now), GreptimeDB, TDengine                                     |
 | Streaming          | Iggy, Redpanda                                                                               |
 | Stream processing  | RisingWave, Arroyo                                                                           |
