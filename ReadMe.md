@@ -25,7 +25,7 @@ and
 | Cache         | Redis, KeyDB                                                                                                                                           |
 | Wide column   | Cassandra, ScyllaDB                                                                                                                                    |
 | TSDB          | Loki, VictoriaMetrics                                                                                                                                  |
-| Dev Tools     | VSCode, (Neo)Vim, Tmux, DBeaver (SQL), TablePlus (NoSQL), Alacritty (macOS) and Wezterm (Windows)                                                      |
+| Dev Tools     | VSCode, Zed, [Neo]Vim, Tmux, DBeaver (SQL), TablePlus (NoSQL), Alacritty (macOS) and Wezterm (Windows)                                                 |
 | Dev OS        | Mostly macOS and Windows, sometimes Arch Linux                                                                                                         |
 | AI Assistants | ChatGPT, Gemini and Aria (Opera)                                                                                                                       |
 | CLI/TUI       | fastfetch, ripgrep, fd, fzf, oha, zellij, tmux, htop, btop, bottom, dnslookup, mtr and curl                                                            |
