@@ -27,7 +27,7 @@ and
 | TSDB          | Loki, VictoriaMetrics                                                                                                                                  |
 | Dev Tools     | VSCode, Zed, [Neo]Vim, Tmux, DBeaver (SQL), TablePlus (NoSQL), Alacritty (macOS) and Wezterm (Windows)                                                 |
 | Dev OS        | Mostly macOS and Windows, sometimes Arch Linux                                                                                                         |
-| AI Assistants | ChatGPT, Gemini and Aria (Opera)                                                                                                                       |
+| AI Assistants | ChatGPT, Gemini, Microsoft Copilot and Aria (Opera)                                                                                                    |
 | CLI/TUI       | fastfetch, ripgrep, fd, fzf, oha, zellij, tmux, htop, btop, bottom, dnslookup, mtr and curl                                                            |
 | Git           | tig, gitui, onefetch, gitleaks                                                                                                                         |
 | InfoSec       | Wireguard, OpenVPN, DNS over HTTPS, CDN, mTLS, WAF                                                                                                     |
