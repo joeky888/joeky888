@@ -50,7 +50,7 @@ and
 | OLTP               | TiDB (No funcs, no triggers), YugabyteDB                                                     |
 | HFT                | TigerBeetleDB                                                                                |
 | CI                 | ArgoCD                                                                                       |
-| AI                 | Jan.ai                                                                                       |
+| LLM                | Gemma                                                                                        |
 | Orchestration      | K3s, Nomad                                                                                   |
 | Container Runtime  | Kata containers, youki                                                                       |
 | Monitoring         | Netdata, OpenObserve, Sniffnet                                                               |
