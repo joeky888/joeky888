@@ -36,36 +36,36 @@ and
 
 #### New tech stack I'm evaluating:
 
-| Tech               |                                                                                              |
-| ------------------ | -------------------------------------------------------------------------------------------- |
-| Language           | Zig (replace unsafe rust), Vlang (Obfuscation, AV Evasion, Crawler)                          |
-| JS/TS Runtime      | Deno, Bun                                                                                    |
-| CLI/TUI            | git-delta, Ntop (Windows), Zenith (macOS/Linux)                                              |
-| Binary Analysis    | ImHex (Patch), Tracy Profiler                                                                |
-| NAT Penetration    | frp, rathole                                                                                 |
-| Game engine        | Unreal (PuerTS)                                                                              |
-| File System        | Bcachefs (Linux 6.7+)                                                                        |
-| IoT edge           | Honojs, libSQL, DuckDB, Qwik x Web Workers, Supabase x TimescaleDB x pgvecto.rs x PostgresML |
-| Weak network       | Yasio, P2PCF, WebRTC-rs                                                                      |
-| OLTP               | TiDB (No funcs, no triggers), YugabyteDB                                                     |
-| HFT                | TigerBeetleDB                                                                                |
-| CI                 | ArgoCD                                                                                       |
-| LLM                | Gemma                                                                                        |
-| Orchestration      | K3s, Nomad                                                                                   |
-| Container Runtime  | Kata containers, youki                                                                       |
-| Monitoring         | Netdata, OpenObserve, Sniffnet                                                               |
-| Service Mesh       | Cilium                                                                                       |
-| Hot ENV            | Kine, Consul (Multi cluster)                                                                 |
-| Cache              | DragonflyDB, ReadySet                                                                        |
-| Full-text          | Meilisearch, ManticoreSearch                                                                 |
-| Vector DB          | Milvus (GPU), Qdrant (CPU), Turso (Faiss)                                                    |
-| Document/Graph DB  | DGraph, SurrealDB                                                                            |
-| OLAP Warehouse     | ParadeDB, ClickHouse, DataBend                                                               |
-| Time-series DB     | InfluxDB 3 (Closed source for now), GreptimeDB, TDengine                                     |
-| Streaming          | Iggy, Redpanda                                                                               |
-| Stream processing  | RisingWave, Arroyo                                                                           |
-| Project Management | MakePlane, AppFlowy, Zulip (PG), RocketChat (Mongo, FerretDB)                                |
-| Remote Desktop     | Sunshine (Server), Moonlight (Client)                                                        |
+| Tech               |                                                                                                                       |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------- |
+| Language           | Zig (replace unsafe rust), Vlang (Obfuscation, AV Evasion, Crawler)                                                   |
+| JS/TS Runtime      | Deno, Bun                                                                                                             |
+| CLI/TUI            | git-delta, Ntop (Windows), Zenith (macOS/Linux)                                                                       |
+| Binary Analysis    | ImHex (Patch), Tracy Profiler                                                                                         |
+| NAT Penetration    | frp, rathole                                                                                                          |
+| Game engine        | Unreal (PuerTS)                                                                                                       |
+| File System        | Bcachefs (Linux 6.7+)                                                                                                 |
+| IoT edge           | Honojs, libSQL, DuckDB, Qwik x Web Workers, Supabase x TimescaleDB x pgvecto.rs x PostgresML                          |
+| Weak network       | Yasio, P2PCF, WebRTC-rs                                                                                               |
+| OLTP               | TiDB (No funcs, no triggers), YugabyteDB                                                                              |
+| HFT                | TigerBeetleDB                                                                                                         |
+| CI                 | ArgoCD                                                                                                                |
+| LLM                | Gemma                                                                                                                 |
+| Orchestration      | K3s, Nomad                                                                                                            |
+| Container Runtime  | Kata containers, youki                                                                                                |
+| Monitoring         | Netdata, OpenObserve, Sniffnet                                                                                        |
+| Service Mesh       | Cilium                                                                                                                |
+| Hot ENV            | Kine, Consul (Multi cluster)                                                                                          |
+| Cache              | DragonflyDB (Blocked by [CLIENT TRACKING](https://www.dragonflydb.io/docs/command-reference/compatibility)), ReadySet |
+| Full-text          | Meilisearch, ManticoreSearch                                                                                          |
+| Vector DB          | Milvus (GPU), Qdrant (CPU), Turso (Faiss)                                                                             |
+| Document/Graph DB  | DGraph, SurrealDB                                                                                                     |
+| OLAP Warehouse     | ParadeDB, ClickHouse, DataBend                                                                                        |
+| Time-series DB     | InfluxDB 3 (Closed source for now), GreptimeDB, TDengine                                                              |
+| Streaming          | Iggy, Redpanda                                                                                                        |
+| Stream processing  | RisingWave, Arroyo                                                                                                    |
+| Project Management | MakePlane, AppFlowy, Zulip (PG), RocketChat (Mongo, FerretDB)                                                         |
+| Remote Desktop     | Sunshine (Server), Moonlight (Client)                                                                                 |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeky888&hide=html&theme=dark)
 ![joeky888's github stats](https://github-readme-stats.vercel.app/api?username=joeky888&show_icons=true&count_private=true&line_height=40&theme=synthwave)
