@@ -52,7 +52,7 @@ and
 | CI                 | ArgoCD                                                                                                                |
 | LLM                | Gemma                                                                                                                 |
 | Orchestration      | K3s, Nomad                                                                                                            |
-| Container Runtime  | Kata containers, youki                                                                                                |
+| Container Runtime  | Kata containers, crun, youki                                                                                          |
 | Monitoring         | Netdata, OpenObserve, Sniffnet                                                                                        |
 | Service Mesh       | Cilium                                                                                                                |
 | Hot ENV            | Kine, Consul (Multi cluster)                                                                                          |
