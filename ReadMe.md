@@ -64,6 +64,7 @@ and
 | Time-series DB     | InfluxDB 3 (Closed source for now), GreptimeDB, TDengine                                                              |
 | Streaming          | Iggy, Redpanda                                                                                                        |
 | Stream processing  | RisingWave, Arroyo                                                                                                    |
+| Documentation      | Astro                                                                                                                 |
 | Project Management | MakePlane, AppFlowy, Zulip (PG), RocketChat (Mongo, FerretDB)                                                         |
 | Remote Desktop     | Sunshine (Server), Moonlight (Client)                                                                                 |
 
