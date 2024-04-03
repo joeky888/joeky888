@@ -30,7 +30,7 @@ and
 | AI Assistants | ChatGPT, Gemini, Microsoft Copilot and Aria (Opera)                                                                                                    |
 | CLI/TUI       | fastfetch, ripgrep, fd, fzf, oha, zellij, tmux, htop, btop, bottom, dnslookup, mtr, xh and curl                                                        |
 | Git           | tig, gitui, onefetch, gitleaks                                                                                                                         |
-| Container     | Docker(win/mac), Podman + crun(Linux)                                                                                                                  |
+| Container     | Podman + crun (Linux), Docker (win/mac)                                                                                                                |
 | InfoSec       | Wireguard, OpenVPN, DNS over HTTPS, CDN, mTLS, WAF and Mozilla Observatory                                                                             |
 | Hacking       | traitor, sqlmap, masscan, nmap, hashcat, sslscan                                                                                                       |
 | Cloud Native  | Kubernetes, Helm, Terraform, Gitea, Drone (Gitness), Github Actions, Traefik, Linkerd2, Cert-Manager, Grafana, AlertManager, Vector.dev and Autoscaler |
