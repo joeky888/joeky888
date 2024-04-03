@@ -9,10 +9,10 @@ I am a(n)
 
 and
 
-* Don't really use Github nowadays
-* Experienced developer
-* Performance and security are my biggest concerns
-* Avatar is [Flashpoint Batman](https://vsbattles.fandom.com/wiki/Batman_(Thomas_Wayne))
+- Don't really use Github nowadays
+- Experienced developer
+- Performance and security are my biggest concerns
+- Avatar is [Flashpoint Batman](<https://vsbattles.fandom.com/wiki/Batman_(Thomas_Wayne)>)
 
 #### Tech stack I'm using:
 
@@ -30,6 +30,7 @@ and
 | AI Assistants | ChatGPT, Gemini, Microsoft Copilot and Aria (Opera)                                                                                                    |
 | CLI/TUI       | fastfetch, ripgrep, fd, fzf, oha, zellij, tmux, htop, btop, bottom, dnslookup, mtr, xh and curl                                                        |
 | Git           | tig, gitui, onefetch, gitleaks                                                                                                                         |
+| Container     | Docker(win/mac), Podman + crun(Linux)                                                                                                                  |
 | InfoSec       | Wireguard, OpenVPN, DNS over HTTPS, CDN, mTLS, WAF and Mozilla Observatory                                                                             |
 | Hacking       | traitor, sqlmap, masscan, nmap, hashcat, sslscan                                                                                                       |
 | Cloud Native  | Kubernetes, Helm, Terraform, Gitea, Drone (Gitness), Github Actions, Traefik, Linkerd2, Cert-Manager, Grafana, AlertManager, Vector.dev and Autoscaler |
@@ -52,7 +53,7 @@ and
 | CI                 | ArgoCD                                                                                                                |
 | LLM                | Gemma                                                                                                                 |
 | Orchestration      | K3s, Nomad                                                                                                            |
-| Container Runtime  | Kata containers, crun, youki                                                                                          |
+| Container Runtime  | Kata containers, youki                                                                                                |
 | Monitoring         | Netdata, OpenObserve, Sniffnet                                                                                        |
 | Service Mesh       | Cilium                                                                                                                |
 | Hot ENV            | Kine, Consul (Multi cluster)                                                                                          |
