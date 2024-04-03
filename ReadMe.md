@@ -22,7 +22,7 @@ and
 | Framework     | GoFiber, Fasthttp, Actix-Web, WS-tool, Ethers-rs, Pyroscope                                                                                            |
 | Game engine   | Cocos Engine (Typescript)                                                                                                                              |
 | OLTP          | MySQL/PostgreSQL                                                                                                                                       |
-| Cache         | Redis, KeyDB                                                                                                                                           |
+| Cache         | Valkey, KeyDB                                                                                                                                          |
 | Wide column   | Cassandra, ScyllaDB                                                                                                                                    |
 | TSDB          | Loki, VictoriaMetrics                                                                                                                                  |
 | Dev Tools     | VSCode, Zed, [Neo]Vim, Tmux, DBeaver (SQL), TablePlus (NoSQL), Alacritty (macOS) and Wezterm (Windows)                                                 |
