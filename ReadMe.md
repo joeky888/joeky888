@@ -42,7 +42,7 @@ and
 | Language           | Zig (replace unsafe rust), Vlang (Obfuscation, AV Evasion, Crawler)                                                   |
 | JS/TS Runtime      | Deno, Bun                                                                                                             |
 | CLI/TUI            | git-delta, Ntop (Windows), Zenith (macOS/Linux)                                                                       |
-| Binary Analysis    | ImHex (Patch), Tracy Profiler                                                                                         |
+| Binary Analysis    | ImHex (Patch), Tracy Profiler, WINSDK/bite                                                                            |
 | NAT Penetration    | frp, rathole                                                                                                          |
 | Game engine        | Unreal (PuerTS)                                                                                                       |
 | File System        | Bcachefs (Linux 6.7+)                                                                                                 |
