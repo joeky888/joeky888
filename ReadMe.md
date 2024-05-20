@@ -67,7 +67,8 @@ and
 | Stream processing  | RisingWave, Arroyo                                                                                                    |
 | Documentation      | Astro                                                                                                                 |
 | Project Management | MakePlane, AppFlowy, Zulip (PG), RocketChat (Mongo, FerretDB)                                                         |
-| Remote Desktop     | Sunshine (Server), Moonlight (Client)                                                                                 |
+| Emulator           | Whisky(Wine), PlayCover(iPad)                                                                                         |
+| Remote Desktop     | Sunshine (Server), Moonlight (Client), netris.me (GeforceNow-like)                                                    |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeky888&hide=html&theme=dark)
 ![joeky888's github stats](https://github-readme-stats.vercel.app/api?username=joeky888&show_icons=true&count_private=true&line_height=40&theme=synthwave)
