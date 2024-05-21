@@ -33,6 +33,7 @@ and
 | Container     | Podman + crun (Linux), Docker (macOS), Qemu (Windows)                                                                                                  |
 | InfoSec       | Wireguard, OpenVPN, DNS over HTTPS, CDN, mTLS, WAF and Mozilla Observatory                                                                             |
 | Hacking       | traitor, sqlmap, masscan, nmap, hashcat, sslscan                                                                                                       |
+| Emulator      | Wine, Proton, Proton-GE                                                                                                                                |
 | Cloud Native  | Kubernetes, Helm, Terraform, Gitea, Drone (Gitness), Github Actions, Traefik, Linkerd2, Cert-Manager, Grafana, AlertManager, Vector.dev and Autoscaler |
 
 #### New tech stack I'm evaluating:
@@ -67,7 +68,7 @@ and
 | Stream processing  | RisingWave, Arroyo                                                                                                    |
 | Documentation      | Astro                                                                                                                 |
 | Project Management | MakePlane, AppFlowy, Zulip (PG), RocketChat (Mongo, FerretDB)                                                         |
-| Emulator           | Whisky(Wine), PlayCover(iPad)                                                                                         |
+| Emulator           | Wineskin, Whisky (Wine), PlayCover (iPad)                                                                             |
 | Remote Desktop     | Sunshine (Server), Moonlight (Client), netris.me (GeforceNow-like)                                                    |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeky888&hide=html&theme=dark)
