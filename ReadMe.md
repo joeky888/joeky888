@@ -52,7 +52,7 @@ and
 | OLTP               | TiDB (No funcs, no triggers), YugabyteDB                                                                              |
 | HFT                | TigerBeetleDB                                                                                                         |
 | CI                 | ArgoCD                                                                                                                |
-| LLM                | Gemma                                                                                                                 |
+| LLM                | Gemma, socketify.py (server)                                                                                          |
 | Orchestration      | K3s, Nomad                                                                                                            |
 | Container Runtime  | Kata containers, youki, podman (`CONTAINERS_MACHINE_PROVIDER="applehv" or "hyperv"` for mac, win respectively)        |
 | Monitoring         | Netdata, OpenObserve, Sniffnet                                                                                        |
