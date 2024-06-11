@@ -47,13 +47,16 @@ and
 | NAT Penetration    | frp, rathole                                                                                                          |
 | Game engine        | Unreal (PuerTS)                                                                                                       |
 | File System        | Bcachefs (Linux 6.7+)                                                                                                 |
-| IoT edge           | Hono, Deno Fresh, Turso, DuckDB, Supabase                                                                             |
+| IoT edge           | Turso, DuckDB, Supabase                                                                                               |
+| Frontend           | Deno Fresh                                                                                                            |
+| Backend            | Hono.js (edge native), Salvo.rs (h3/webtransport), Socketify.py (uws)                                                 |
 | Weak network       | Yasio, P2PCF, WebRTC-rs                                                                                               |
 | OLTP               | TiDB (No funcs, no triggers), YugabyteDB                                                                              |
 | HFT                | TigerBeetleDB                                                                                                         |
 | CI                 | ArgoCD                                                                                                                |
-| LLM                | Gemma, socketify.py (server)                                                                                          |
+| LLM                | Gemma                                                                                                                 |
 | Orchestration      | K3s, Nomad                                                                                                            |
+| Ingress            | HAProxy                                                                                                               |
 | Container Runtime  | Kata containers, youki, podman (`CONTAINERS_MACHINE_PROVIDER="applehv" or "hyperv"` for mac, win respectively)        |
 | Monitoring         | Netdata, OpenObserve, Sniffnet                                                                                        |
 | Service Mesh       | Cilium                                                                                                                |
