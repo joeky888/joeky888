@@ -6,7 +6,7 @@ I am a(n)
 2. 2&3D Game Frontend Developer (Sometimes)
 3. Kubernetes DevOps Manager (Mostly)
 4. System Architecture Consultant (Occasionally)
-5. Next/React Frontend Developer (Rarely)
+5. Next/React/React Native Frontend Developer (Rarely)
 
 and
 
