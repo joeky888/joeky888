@@ -6,6 +6,7 @@ I am a(n)
 2. 2&3D Game Frontend Developer (Sometimes)
 3. Kubernetes DevOps Manager (Mostly)
 4. System Architecture Consultant (Occasionally)
+5. Next/React Frontend Developer (Rarely)
 
 and
 
@@ -19,7 +20,7 @@ and
 | Tech          | Including but not limited to                                                                                                                           |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Language      | Go, Rust, TypeScript, Shell Script and PowerShell                                                                                                      |
-| Framework     | GoFiber, Fasthttp, Actix-Web, WS-tool, Ethers-rs, Pyroscope                                                                                            |
+| Framework     | GoFiber, Fasthttp, Actix-Web, WS-tool, Ethers-rs, Next.js/node, Fresh/deno, Tailwind CSS                                                               |
 | Game engine   | Cocos Engine (Typescript)                                                                                                                              |
 | OLTP          | MySQL/PostgreSQL                                                                                                                                       |
 | Cache         | Valkey, KeyDB                                                                                                                                          |
@@ -41,14 +42,13 @@ and
 | Tech               |                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------- |
 | Language           | Zig (replace unsafe rust), Vlang (Obfuscation, AV Evasion, Crawler)                                                   |
-| JS/TS Runtime      | Deno, Bun                                                                                                             |
-| CLI/TUI            | git-delta, Ntop (Windows), Zenith (macOS/Linux)                                                                       |
+| JS/TS Runtime      | Bun                                                                                                                   |
+| CLI/TUI            | git-delta, Ntop (Windows), Zenith (macOS/Linux), shpool                                                               |
 | Binary Analysis    | ImHex (Patch), Tracy Profiler, WINSDK/bite                                                                            |
 | NAT Penetration    | frp, rathole                                                                                                          |
 | Game engine        | Unreal (PuerTS)                                                                                                       |
 | File System        | Bcachefs (Linux 6.7+)                                                                                                 |
 | IoT edge           | Turso, DuckDB, Supabase                                                                                               |
-| Frontend           | Deno Fresh                                                                                                            |
 | Backend            | Hono.js (edge native), Salvo.rs (h3/webtransport), Socketify.py (uws)                                                 |
 | Weak network       | Yasio, P2PCF, WebRTC-rs                                                                                               |
 | OLTP               | TiDB (No funcs, no triggers), YugabyteDB                                                                              |
