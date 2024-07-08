@@ -42,7 +42,7 @@ and
 | Tech               |                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------- |
 | Language           | Zig (replace unsafe rust), Vlang (Obfuscation, AV Evasion, Crawler)                                                   |
-| JS/TS Runtime      | Bun                                                                                                                   |
+| JS/TS Runtime      | Bun, poolifier/poolifier-web-worker                                                                                   |
 | CLI/TUI            | git-delta, Ntop (Windows), Zenith (macOS/Linux), shpool                                                               |
 | Binary Analysis    | ImHex (Patch), Tracy Profiler, WINSDK/bite                                                                            |
 | NAT Penetration    | frp, rathole                                                                                                          |
