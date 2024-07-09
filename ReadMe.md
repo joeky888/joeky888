@@ -23,7 +23,7 @@ and
 | Framework     | GoFiber, Fasthttp, Actix-Web, WS-tool, Ethers-rs, Next.js/node, Fresh/deno, Tailwind CSS                                                               |
 | Game engine   | Cocos Engine (Typescript)                                                                                                                              |
 | OLTP          | MySQL/PostgreSQL                                                                                                                                       |
-| Cache         | Valkey, KeyDB                                                                                                                                          |
+| Cache         | Valkey, DragonflyDB, KeyDB                                                                                                                             |
 | Wide column   | Cassandra, ScyllaDB                                                                                                                                    |
 | TSDB          | Loki, VictoriaMetrics                                                                                                                                  |
 | Dev Tools     | VSCode, Zed, [Neo]Vim, Tmux, DBeaver (SQL), TablePlus (NoSQL), Alacritty (macOS) and Wezterm (Windows)                                                 |
@@ -39,40 +39,40 @@ and
 
 #### New tech stack I'm evaluating:
 
-| Tech               |                                                                                                                       |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------- |
-| Language           | Zig (replace unsafe rust), Vlang (Obfuscation, AV Evasion, Crawler)                                                   |
-| JS/TS Runtime      | Bun, Poolifier (Node), Poolifier-web-worker (Deno/Bun)                                                                |
-| CLI/TUI            | git-delta, Ntop (Windows), Zenith (macOS/Linux), shpool                                                               |
-| Binary Analysis    | ImHex (Patch), Tracy Profiler, WINSDK/bite                                                                            |
-| NAT Penetration    | frp, rathole                                                                                                          |
-| Game engine        | Unreal (PuerTS)                                                                                                       |
-| File System        | Bcachefs (Linux 6.7+)                                                                                                 |
-| IoT edge           | Turso, DuckDB, Supabase                                                                                               |
-| Backend            | Hono.js (edge native), Salvo.rs (h3/webtransport), Socketify.py (uws)                                                 |
-| Weak network       | Yasio, P2PCF, WebRTC-rs                                                                                               |
-| OLTP               | TiDB (No funcs, no triggers), YugabyteDB                                                                              |
-| HFT                | TigerBeetleDB                                                                                                         |
-| CI                 | ArgoCD                                                                                                                |
-| LLM                | WebLLM                                                                                                                |
-| Orchestration      | K3s, Nomad                                                                                                            |
-| Ingress            | HAProxy                                                                                                               |
-| Container Runtime  | Kata containers, youki, podman (`CONTAINERS_MACHINE_PROVIDER="applehv" or "hyperv"` for mac, win respectively)        |
-| Monitoring         | Netdata, OpenObserve, Sniffnet                                                                                        |
-| Service Mesh       | Cilium                                                                                                                |
-| Hot ENV            | Kine, Consul (Multi cluster)                                                                                          |
-| Cache              | DragonflyDB (Blocked by [CLIENT TRACKING](https://www.dragonflydb.io/docs/command-reference/compatibility)), ReadySet |
-| Full-text          | Meilisearch, ManticoreSearch                                                                                          |
-| Vector DB          | Milvus (GPU), Qdrant (CPU), Turso (Faiss)                                                                             |
-| Document/Graph DB  | DGraph, SurrealDB                                                                                                     |
-| OLAP Warehouse     | ParadeDB, ClickHouse, DataBend                                                                                        |
-| Time-series DB     | InfluxDB 3 (Closed source for now), GreptimeDB, TDengine                                                              |
-| Streaming          | Iggy, Redpanda                                                                                                        |
-| Stream processing  | RisingWave, Arroyo                                                                                                    |
-| Documentation      | Astro                                                                                                                 |
-| Project Management | MakePlane, AppFlowy, Zulip (PG), RocketChat (Mongo, FerretDB)                                                         |
-| Emulator           | Wineskin, Whisky (Wine), PlayCover (iPad)                                                                             |
-| Remote Desktop     | Sunshine (Server), Moonlight (Client), netris.me (GeforceNow-like)                                                    |
+| Tech               |                                                                                                                |
+| ------------------ | -------------------------------------------------------------------------------------------------------------- |
+| Language           | Zig (replace unsafe rust), Vlang (Obfuscation, AV Evasion, Crawler)                                            |
+| JS/TS Runtime      | Bun, Poolifier (Node), Poolifier-web-worker (Deno/Bun)                                                         |
+| CLI/TUI            | git-delta, Ntop (Windows), Zenith (macOS/Linux), shpool                                                        |
+| Binary Analysis    | ImHex (Patch), Tracy Profiler, WINSDK/bite                                                                     |
+| NAT Penetration    | frp, rathole                                                                                                   |
+| Game engine        | Unreal (PuerTS)                                                                                                |
+| File System        | Bcachefs (Linux 6.7+)                                                                                          |
+| IoT edge           | Turso, DuckDB, Supabase                                                                                        |
+| Backend            | Hono.js (edge native), Salvo.rs (h3/webtransport), Socketify.py (uws)                                          |
+| Weak network       | Yasio, P2PCF, WebRTC-rs                                                                                        |
+| OLTP               | TiDB (No funcs, no triggers), YugabyteDB                                                                       |
+| HFT                | TigerBeetleDB                                                                                                  |
+| CI                 | ArgoCD                                                                                                         |
+| LLM                | WebLLM                                                                                                         |
+| Orchestration      | K3s, Nomad                                                                                                     |
+| Ingress            | HAProxy                                                                                                        |
+| Container Runtime  | Kata containers, youki, podman (`CONTAINERS_MACHINE_PROVIDER="applehv" or "hyperv"` for mac, win respectively) |
+| Monitoring         | Netdata, OpenObserve, Sniffnet                                                                                 |
+| Service Mesh       | Cilium                                                                                                         |
+| Hot ENV            | Kine, Consul (Multi cluster)                                                                                   |
+| Cache              | ReadySet                                                                                                       |
+| Full-text          | Meilisearch, ManticoreSearch                                                                                   |
+| Vector DB          | Milvus (GPU), Qdrant (CPU), Turso (Faiss)                                                                      |
+| Document/Graph DB  | DGraph, SurrealDB                                                                                              |
+| OLAP Warehouse     | ParadeDB, ClickHouse, DataBend                                                                                 |
+| Time-series DB     | InfluxDB 3 (Closed source for now), GreptimeDB, TDengine                                                       |
+| Streaming          | Iggy, Redpanda                                                                                                 |
+| Stream processing  | RisingWave, Arroyo                                                                                             |
+| Documentation      | Astro                                                                                                          |
+| Project Management | MakePlane, AppFlowy, Zulip (PG), RocketChat (Mongo, FerretDB)                                                  |
+| Emulator           | Wineskin, Whisky (Wine), PlayCover (iPad)                                                                      |
+| Remote Desktop     | Sunshine (Server), Moonlight (Client), netris.me (GeforceNow-like)                                             |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeky888&hide=html&theme=dark)
 ![joeky888's github stats](https://github-readme-stats.vercel.app/api?username=joeky888&show_icons=true&count_private=true&line_height=40&theme=synthwave)
