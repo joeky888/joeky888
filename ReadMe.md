@@ -10,7 +10,6 @@ I am a(n)
 
 and
 
-- Don't really use Github nowadays
 - Experienced developer
 - Performance and security are my biggest concerns
 - Avatar is [Flashpoint Batman](<https://vsbattles.fandom.com/wiki/Batman_(Thomas_Wayne)>)
