@@ -31,7 +31,7 @@ and
 | CLI/TUI       | fastfetch, ripgrep, fd, fzf, oha, zellij, tmux, htop, btop, bottom, dnslookup, mtr, xh and curl                                                        |
 | Git           | tig, gitui, onefetch, gitleaks                                                                                                                         |
 | Container     | Podman + crun (Linux), Docker (macOS), Qemu (Windows)                                                                                                  |
-| InfoSec       | Wireguard, OpenVPN, DNS over HTTPS, CDN, mTLS, WAF and Mozilla Observatory                                                                             |
+| InfoSec       | Wireguard, OpenVPN, DNS over HTTPS, CDN, mTLS, WAF, HSTS, and Mozilla Observatory                                                                      |
 | Hacking       | traitor, sqlmap, masscan, nmap, hashcat, sslscan                                                                                                       |
 | Emulator      | Wine, Proton, Proton-GE                                                                                                                                |
 | Cloud Native  | Kubernetes, Helm, Terraform, Gitea, Drone (Gitness), Github Actions, Traefik, Linkerd2, Cert-Manager, Grafana, AlertManager, Vector.dev and Autoscaler |
