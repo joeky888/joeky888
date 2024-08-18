@@ -47,7 +47,7 @@ and
 | NAT Penetration    | frp, rathole                                                                                                   |
 | Game engine        | Unreal (PuerTS)                                                                                                |
 | File System        | Bcachefs (Linux 6.7+)                                                                                          |
-| IoT edge           | Turso, DuckDB, Supabase                                                                                        |
+| IoT edge           | Turso, Supabase                                                                                                |
 | Backend            | Hono.js (edge native), Salvo.rs (h3/webtransport), Socketify.py (uws)                                          |
 | Weak network       | Yasio, P2PCF, WebRTC-rs                                                                                        |
 | OLTP               | TiDB (No funcs, no triggers), YugabyteDB                                                                       |
@@ -63,6 +63,7 @@ and
 | Cache              | ReadySet                                                                                                       |
 | Full-text          | Meilisearch, ManticoreSearch                                                                                   |
 | Vector DB          | Milvus (GPU), Qdrant (CPU), Turso (Faiss)                                                                      |
+| Data Analysis      | DuckDB, Polars                                                                                                 |
 | Document/Graph DB  | DGraph, SurrealDB                                                                                              |
 | OLAP Warehouse     | ParadeDB, ClickHouse, DataBend                                                                                 |
 | Time-series DB     | InfluxDB 3 (Closed source for now), GreptimeDB, TDengine                                                       |
