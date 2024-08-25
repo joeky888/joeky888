@@ -52,7 +52,7 @@ and
 | Weak network       | Yasio, P2PCF, WebRTC-rs                                                                                        |
 | OLTP               | TiDB (No funcs, no triggers), YugabyteDB                                                                       |
 | HFT                | TigerBeetleDB                                                                                                  |
-| CI                 | ArgoCD                                                                                                         |
+| CI                 | ArgoCD, Jenkins                                                                                                |
 | LLM                | WebLLM                                                                                                         |
 | Orchestration      | K3s, Nomad                                                                                                     |
 | Ingress            | HAProxy                                                                                                        |
