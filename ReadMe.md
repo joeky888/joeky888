@@ -39,8 +39,6 @@ and
 
 #### New tech stack I'm evaluating:
 
-There are so many deserving of investment, and there is so little time.
-
 | Tech               |                                                                                                                |
 | ------------------ | -------------------------------------------------------------------------------------------------------------- |
 | Language           | Zig (replace unsafe rust), Vlang (Obfuscation, AV Evasion, Crawler)                                            |
@@ -77,6 +75,8 @@ There are so many deserving of investment, and there is so little time.
 | Project Management | MakePlane, AppFlowy, Zulip (PG), RocketChat (Mongo, FerretDB)                                                  |
 | Emulator           | Wineskin, Whisky (Wine), PlayCover (iPad)                                                                      |
 | Remote Desktop     | Sunshine (Server), Moonlight (Client), netris.me (GeforceNow-like)                                             |
+
+There are so many more deserving of investment, and there is so little time.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeky888&hide=html&theme=dark)
 ![joeky888's github stats](https://github-readme-stats.vercel.app/api?username=joeky888&show_icons=true&count_private=true&line_height=40&theme=synthwave)
