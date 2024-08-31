@@ -39,6 +39,8 @@ and
 
 #### New tech stack I'm evaluating:
 
+There are so many deserving of investment, and there is so little time.
+
 | Tech               |                                                                                                                |
 | ------------------ | -------------------------------------------------------------------------------------------------------------- |
 | Language           | Zig (replace unsafe rust), Vlang (Obfuscation, AV Evasion, Crawler)                                            |
