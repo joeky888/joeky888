@@ -20,7 +20,7 @@ and
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Language      | Go, Rust, TypeScript, Shell Script and PowerShell                                                                                                      |
 | Framework     | GoFiber, Fasthttp, Actix-Web, WS-tool, Ethers-rs, Next.js/node, Fresh/deno, Tailwind CSS                                                               |
-| Game engine   | Cocos Engine (Typescript)                                                                                                                              |
+| Game engine   | Unity3D, Cocos Engine                                                                                                                                  |
 | SEO           | PageSpeed Insights                                                                                                                                     |
 | OLTP          | MySQL/PostgreSQL                                                                                                                                       |
 | Cache         | Valkey, DragonflyDB, KeyDB                                                                                                                             |
