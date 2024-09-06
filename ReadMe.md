@@ -7,6 +7,7 @@ I am a(n)
 3. Kubernetes DevOps Manager (Mostly)
 4. System Architecture Consultant (Occasionally)
 5. Next/React/React Native Frontend Developer (Rarely)
+6. Electrician (Occasionally)
 
 and
 
