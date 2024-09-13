@@ -46,6 +46,7 @@ and
 | JS/TS Runtime      | Bun, Poolifier (Node), Poolifier-web-worker (Deno/Bun)                                                         |
 | CLI/TUI            | git-delta, Ntop (Windows), Zenith (macOS/Linux), shpool                                                        |
 | GUI                | Tauri                                                                                                          |
+| Editor             | Helix                                                                                                          |
 | Binary Analysis    | ImHex (Patch), Tracy Profiler, WINSDK/bite                                                                     |
 | NAT Penetration    | frp, rathole                                                                                                   |
 | Game engine        | Unreal (PuerTS)                                                                                                |
