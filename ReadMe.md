@@ -19,7 +19,7 @@ and
 
 | Tech          | Including but not limited to                                                                                                                           |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Language      | Go, Rust, TypeScript, Shell Script and PowerShell                                                                                                      |
+| Language      | Go, Rust, TypeScript, Shell (Zsh, Fish and PowerShell)                                                                                                 |
 | Framework     | GoFiber, Fasthttp, Actix-Web, WS-tool, Ethers-rs, Next.js/node, Fresh/deno, Tailwind CSS                                                               |
 | Game engine   | Unity3D, Cocos Engine                                                                                                                                  |
 | SEO           | PageSpeed Insights                                                                                                                                     |
@@ -27,7 +27,7 @@ and
 | Cache         | Valkey, DragonflyDB, KeyDB                                                                                                                             |
 | Wide column   | Cassandra, ScyllaDB                                                                                                                                    |
 | TSDB          | Loki, VictoriaMetrics                                                                                                                                  |
-| Dev Tools     | VSCode, Zed, [Neo]Vim, Tmux, DBeaver (SQL), TablePlus (NoSQL), Alacritty (macOS) and Wezterm (Windows)                                                 |
+| Dev Tools     | VSCode, Zed, [Neo]Vim, Helix (Android Termux), DBeaver (SQL), TablePlus (NoSQL), Alacritty (macOS) and Wezterm (Windows)                               |
 | Dev OS        | Mostly macOS and Windows, sometimes Arch Linux                                                                                                         |
 | AI Assistants | ChatGPT, Gemini, Microsoft Copilot and Aria (Opera)                                                                                                    |
 | CLI/TUI       | fastfetch, ripgrep, fd, fzf, oha, zellij, tmux, htop, bottom, dnslookup (DoH/DoT), mtr, xh and curl                                                    |
@@ -46,7 +46,6 @@ and
 | JS/TS Runtime      | Bun, Poolifier (Node), Poolifier-web-worker (Deno/Bun)                                                         |
 | CLI/TUI            | git-delta, Ntop (Windows), Zenith (macOS/Linux), shpool                                                        |
 | GUI                | Tauri                                                                                                          |
-| Editor             | Helix                                                                                                          |
 | Binary Analysis    | ImHex (Patch), Tracy Profiler, WINSDK/bite                                                                     |
 | NAT Penetration    | frp, rathole                                                                                                   |
 | Game engine        | Unreal (PuerTS)                                                                                                |
