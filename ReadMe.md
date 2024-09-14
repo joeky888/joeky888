@@ -58,7 +58,7 @@ and
 | CI                 | ArgoCD, Jenkins                                                                                                |
 | LLM                | WebLLM                                                                                                         |
 | Orchestration      | K3s, Nomad                                                                                                     |
-| Ingress            | HAProxy                                                                                                        |
+| Ingress            | LoxiLB, HAProxy                                                                                                |
 | Container Runtime  | Kata containers, youki, podman (`CONTAINERS_MACHINE_PROVIDER="applehv" or "hyperv"` for mac, win respectively) |
 | Monitoring         | Netdata, OpenObserve, Sniffnet                                                                                 |
 | Service Mesh       | Cilium                                                                                                         |
