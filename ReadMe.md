@@ -58,10 +58,10 @@ and
 | CI                 | ArgoCD, Jenkins                                                                                                |
 | LLM                | WebLLM                                                                                                         |
 | Orchestration      | K3s, Nomad                                                                                                     |
-| Ingress            | LoxiLB, HAProxy                                                                                                |
+| Ingress            | LoxiLB, Cilium, HAProxy                                                                                        |
+| Service Mesh       | Cilium                                                                                                         |
 | Container Runtime  | Kata containers, youki, podman (`CONTAINERS_MACHINE_PROVIDER="applehv" or "hyperv"` for mac, win respectively) |
 | Monitoring         | Netdata, OpenObserve, Sniffnet                                                                                 |
-| Service Mesh       | Cilium                                                                                                         |
 | Hot ENV            | Kine, Consul (Multi cluster)                                                                                   |
 | Cache              | ReadySet                                                                                                       |
 | Full-text          | Meilisearch, ManticoreSearch                                                                                   |
