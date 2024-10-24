@@ -60,6 +60,7 @@ and
 | Orchestration      | K3s, Nomad                                                                                                     |
 | Ingress            | LoxiLB (eBPF + http3), Cilium (eBPF, No http3), HAProxy (http3 requires recompiling)                           |
 | Service Mesh       | Cilium                                                                                                         |
+| Container          | bsdpot (FreeBSD jails)                                                                                         |
 | Container Runtime  | Kata containers, youki, podman (`CONTAINERS_MACHINE_PROVIDER="applehv" or "hyperv"` for mac, win respectively) |
 | Monitoring         | Netdata, OpenObserve, Sniffnet                                                                                 |
 | Hot ENV            | Kine, Consul (Multi cluster)                                                                                   |
