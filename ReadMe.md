@@ -74,7 +74,7 @@ and
 | Streaming          | Iggy, Redpanda                                                                                                 |
 | Stream processing  | RisingWave, Arroyo                                                                                             |
 | Documentation      | Astro                                                                                                          |
-| Project Management | MakePlane, AppFlowy, Zulip (PG), RocketChat (Mongo, FerretDB)                                                  |
+| Project Management | MakePlane, AppFlowy, Zulip (PG), RocketChat (Mongo, FerretDB), Mattermost (PG, MySQL)                          |
 | Emulator           | Wineskin, Whisky (Wine), PlayCover (iPad)                                                                      |
 | Remote Desktop     | Sunshine (Server), Moonlight (Client), netris.me (GeforceNow-like)                                             |
 
