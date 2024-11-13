@@ -62,7 +62,7 @@ and
 | Service Mesh       | Cilium                                                                                                         |
 | Container          | bsdpot (FreeBSD jails)                                                                                         |
 | Container Runtime  | Kata containers, youki, podman (`CONTAINERS_MACHINE_PROVIDER="applehv" or "hyperv"` for mac, win respectively) |
-| Monitoring         | Netdata, OpenObserve, Sniffnet, HyperDX                                                                        |
+| Monitoring         | Netdata, OpenObserve, Sniffnet, HyperDX (requires clickhouse)                                                  |
 | Hot ENV            | Kine, Consul (Multi cluster)                                                                                   |
 | Cache              | ReadySet                                                                                                       |
 | Full-text          | Meilisearch, ManticoreSearch                                                                                   |
