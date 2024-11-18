@@ -73,7 +73,8 @@ and
 | Time-series DB     | InfluxDB 3 (Closed source for now), GreptimeDB, TDengine                                                       |
 | Streaming          | Iggy, Redpanda                                                                                                 |
 | Stream processing  | RisingWave, Arroyo                                                                                             |
-| Documentation      | Astro (Node), deno-gfm (Deno)                                                                                  |
+| Static site        | Astro                                                                                                          |
+| Documentation      | deno-gfm                                                                                                       |
 | Project Management | MakePlane, AppFlowy, Zulip (PG), RocketChat (Mongo), Mattermost (PG, MySQL, No max user limits)                |
 | Emulator           | Wineskin, Whisky (Wine), PlayCover (iPad)                                                                      |
 | Remote Desktop     | Sunshine (Server), Moonlight (Client), netris.me (GeforceNow-like)                                             |
