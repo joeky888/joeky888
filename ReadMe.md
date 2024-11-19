@@ -55,7 +55,7 @@ and
 | Weak network       | Yasio, P2PCF, WebRTC-rs                                                                                        |
 | OLTP               | TiDB (No funcs, no triggers), YugabyteDB                                                                       |
 | HFT                | TigerBeetleDB                                                                                                  |
-| CI                 | ArgoCD, Jenkins                                                                                                |
+| CI                 | ArgoCD, Jenkins, Gitea Actions                                                                                 |
 | LLM                | WebLLM                                                                                                         |
 | Orchestration      | K3s, Nomad                                                                                                     |
 | Ingress            | LoxiLB (eBPF + http3), Cilium (eBPF, No http3), HAProxy (http3 requires recompiling)                           |
