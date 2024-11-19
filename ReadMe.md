@@ -66,7 +66,7 @@ and
 | Hot ENV            | Kine, Consul (Multi cluster)                                                                                   |
 | Cache              | ReadySet                                                                                                       |
 | Full-text          | Meilisearch, ManticoreSearch                                                                                   |
-| Vector DB          | Milvus (GPU), Qdrant (CPU), Turso (Faiss)                                                                      |
+| Vector DB          | Milvus (GPU), Qdrant (CPU), LanceDB (GPU), Turso (Faiss)                                                       |
 | Data Analysis      | DuckDB, Polars                                                                                                 |
 | Document/Graph DB  | DGraph, SurrealDB                                                                                              |
 | OLAP Warehouse     | ParadeDB, ClickHouse, DataBend                                                                                 |
