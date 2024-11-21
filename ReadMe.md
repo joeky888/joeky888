@@ -45,7 +45,7 @@ and
 | Language           | Zig (replace unsafe rust), Vlang (Obfuscation, AV Evasion, Crawler), Carbon (replace c++)                      |
 | JS/TS Runtime      | Bun, Poolifier (Node), Poolifier-web-worker (Deno/Bun)                                                         |
 | CLI/TUI            | git-delta, Ntop (Windows), Zenith (macOS/Linux), shpool                                                        |
-| GUI                | Tauri                                                                                                          |
+| GUI                | Tauri, Electrobun (bun)                                                                                        |
 | Binary Analysis    | ImHex (Patch), Tracy Profiler, WINSDK/bite                                                                     |
 | NAT Penetration    | frp, rathole                                                                                                   |
 | Game engine        | Unreal (PuerTS)                                                                                                |
