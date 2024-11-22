@@ -57,6 +57,7 @@ and
 | HFT                | TigerBeetleDB                                                                                                  |
 | CI                 | ArgoCD, Jenkins, Gitea Actions                                                                                 |
 | LLM                | WebLLM                                                                                                         |
+| IaC                | Pulumi                                                                                                         |
 | Orchestration      | K3s, Nomad                                                                                                     |
 | Ingress            | LoxiLB (eBPF + http3), Cilium (eBPF, No http3), HAProxy (http3 requires recompiling)                           |
 | Service Mesh       | Cilium                                                                                                         |
