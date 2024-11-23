@@ -79,7 +79,7 @@ and
 | Project Management | MakePlane, AppFlowy, Zulip (PG), RocketChat (Mongo), Mattermost (PG, MySQL, No max user limits)                |
 | Windows Emulator   | Kegworks (Wineskin successor, closed-source), Whisky                                                           |
 | Android Emulator   | MuMuPlayer Pro (Windows and Apple Silicon, closed-source), FydeOS, Waydroid                                    |
-| iOS Emulator       | PlayCover (iPad)                                                                                               |
+| iOS Emulator       | PlayCover (Apple Silicon, imitates an iPad)                                                                    |
 | Remote Desktop     | Sunshine (Server), Moonlight (Client), netris.me (GeforceNow-like)                                             |
 | Linux Kernel       | Zen Kernel (Arch tuned), Asterinas (Linux-compatible, in rust)                                                 |
 
