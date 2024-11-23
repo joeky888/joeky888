@@ -77,7 +77,8 @@ and
 | SSR/SSG            | Astro                                                                                                          |
 | Documentation      | deno-gfm                                                                                                       |
 | Project Management | MakePlane, AppFlowy, Zulip (PG), RocketChat (Mongo), Mattermost (PG, MySQL, No max user limits)                |
-| Emulator           | Kegworks (Wineskin successor, closed-source), Whisky, PlayCover (iPad)                                         |
+| Windows Emulator   | Kegworks (Wineskin successor, closed-source), Whisky, PlayCover (iPad)                                         |
+| Android Emulator   | MuMuPlayer Pro (Windows and Apple Silicon, closed-source), FydeOS, Waydroid                                    |
 | Remote Desktop     | Sunshine (Server), Moonlight (Client), netris.me (GeforceNow-like)                                             |
 
 There are so many more deserving of investment, and there is so little time.
