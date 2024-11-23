@@ -28,7 +28,7 @@ and
 | Wide column      | Cassandra, ScyllaDB                                                                                                                                    |
 | TSDB             | Loki, VictoriaMetrics                                                                                                                                  |
 | Dev Tools        | VSCode, Zed, [Neo]Vim, Helix (low-end hardwares), DBeaver (SQL), TablePlus (NoSQL), Alacritty (macOS) and Wezterm (Windows)                            |
-| Dev OS           | Mostly macOS and Windows, sometimes Arch Linux                                                                                                         |
+| Dev OS           | Mostly macOS and Windows, sometimes Arch Linux, LineageOS (Android), iOS                                                                               |
 | AI Assistants    | ChatGPT, Gemini, Microsoft Copilot and Aria (Opera)                                                                                                    |
 | CLI/TUI          | fastfetch, ripgrep, fd, fzf, oha, zellij, tmux, htop, bottom, dnslookup (DoH/DoT), mtr, xh and curl                                                    |
 | Git              | tig, gitui, onefetch, gitleaks                                                                                                                         |
