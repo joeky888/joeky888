@@ -80,6 +80,7 @@ and
 | Windows Emulator   | Kegworks (Wineskin successor, closed-source), Whisky, PlayCover (iPad)                                         |
 | Android Emulator   | MuMuPlayer Pro (Windows and Apple Silicon, closed-source), FydeOS, Waydroid                                    |
 | Remote Desktop     | Sunshine (Server), Moonlight (Client), netris.me (GeforceNow-like)                                             |
+| Linux Kernel       | Zen Kernel (Arch tuned), Asterinas (Linux-compatible, in rust)                                                 |
 
 There are so many more deserving of investment, and there is so little time.
 
