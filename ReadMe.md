@@ -24,7 +24,7 @@ and
 | Game engine      | Unity3D, Cocos Engine                                                                                                                                  |
 | SEO              | PageSpeed Insights                                                                                                                                     |
 | OLTP             | MySQL/PostgreSQL                                                                                                                                       |
-| Cache            | Valkey, DragonflyDB, KeyDB                                                                                                                             |
+| Cache            | Valkey (Redis), DragonflyDB, KeyDB                                                                                                                     |
 | Wide column      | Cassandra, ScyllaDB                                                                                                                                    |
 | TSDB             | Loki, VictoriaMetrics                                                                                                                                  |
 | Dev Tools        | VSCode, Zed, [Neo]Vim, Helix (low-end hardwares), DBeaver (SQL), TablePlus (NoSQL), Alacritty (macOS) and Wezterm (Windows)                            |
@@ -44,7 +44,7 @@ and
 | ------------------ | -------------------------------------------------------------------------------------------------------------- |
 | Language           | Zig (replace unsafe rust), Vlang (Obfuscation, AV Evasion, Crawler), Carbon (replace c++)                      |
 | JS/TS Runtime      | Bun, Poolifier (Node), Poolifier-web-worker (Deno/Bun), QuickJS (The Next Generation)                          |
-| CLI/TUI            | git-delta, Ntop (Windows), Zenith (macOS/Linux), shpool                                                        |
+| CLI/TUI            | git-delta, Ntop (Windows), Zenith (macOS/Linux), shpool, nvtop                                                 |
 | GUI                | Tauri, Electrobun (bun)                                                                                        |
 | Binary Analysis    | ImHex (Patch), Tracy Profiler, WINSDK/bite                                                                     |
 | NAT Penetration    | frp, rathole                                                                                                   |
