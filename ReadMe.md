@@ -9,11 +9,12 @@ I am a(n)
 3. 🐳 Kubernetes DevOps Manager
 4. 🏰 System Architecture Consultant
 5. 📲 Next/React/React Native Frontend Developer
-6. 💡 Electrician (Sometimes)
+6. 🛠 Electrician (Sometimes)
 
 and interested in
 
-- 🛠 Mechanical engineering | Automotive engineering
+- 🦾 Mechanical engineering | Automotive engineering | Robotics Engineering
+- 💪🏼 Work out
 - 💊 Pharmacy
 
 #### Tech stack I'm using:
