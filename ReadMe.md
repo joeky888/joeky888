@@ -68,7 +68,7 @@ and interested in
 | Monitoring         | Netdata, OpenObserve, Sniffnet, HyperDX (requires clickhouse)                                                  |
 | Hot ENV            | Kine, Consul (Multi cluster)                                                                                   |
 | Cache              | ReadySet                                                                                                       |
-| Full-text          | Meilisearch, ManticoreSearch                                                                                   |
+| Full-text          | Meilisearch, ManticoreSearch, Tantivy, SeekStorm                                                               |
 | Vector DB          | Milvus (GPU), Qdrant (CPU), LanceDB (GPU), Turso (Faiss)                                                       |
 | Data Analysis      | DuckDB, Polars                                                                                                 |
 | Document/Graph DB  | DGraph, SurrealDB                                                                                              |
