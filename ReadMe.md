@@ -11,9 +11,14 @@ I am a(n)
 
 and
 
-- Experienced developer
-- Performance and security are my biggest concerns
+- Experienced Developer
+- Professional in Performance and Security System Design
 - Avatar is [Flashpoint Batman](<https://vsbattles.fandom.com/wiki/Batman_(Thomas_Wayne)>)
+
+Interested in
+
+- Mechanical engineering | Automotive engineering
+- AI | Computer Vision
 
 #### Tech stack I'm using:
 
