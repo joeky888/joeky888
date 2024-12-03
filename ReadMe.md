@@ -1,6 +1,6 @@
 ## Hello 👋
 
-💻 Experienced Developer | Kubernetes | Performance and Security System | AI | Computer Vision
+💻 Experienced Developer | Kubernetes | Performance | Security | AI | Computer Vision
 
 I am a(n)
 
