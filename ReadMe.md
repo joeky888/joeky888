@@ -1,24 +1,24 @@
-### Hello 👋
+## Hello 👋
+
+Experienced Developer | Kubernetes | Performance and Security System | AI | Computer Vision
 
 I am a(n)
 
-1. FinTech Backend Developer (Mostly)
-2. 2&3D Game Frontend Developer (Sometimes)
-3. Kubernetes DevOps Manager (Mostly)
-4. System Architecture Consultant (Occasionally)
-5. Next/React/React Native Frontend Developer (Rarely)
-6. Electrician (Occasionally)
+1. 📈 FinTech Backend Developer
+2. 🎮 2&3D Game Frontend Developer (Sometimes)
+3. 🐳 Kubernetes DevOps Manager
+4. 🏰 System Architecture Consultant
+5. 📲 Next/React/React Native Frontend Developer
+6. 🛠 Electrician (Sometimes)
 
 and
 
-- Experienced Developer
-- Professional in Performance and Security System Design
+- Professional in
 - Avatar is [Flashpoint Batman](<https://vsbattles.fandom.com/wiki/Batman_(Thomas_Wayne)>)
 
 Interested in
 
-- Mechanical engineering | Automotive engineering
-- AI | Computer Vision
+- 🛠 Mechanical engineering | Automotive engineering
 
 #### Tech stack I'm using:
 
