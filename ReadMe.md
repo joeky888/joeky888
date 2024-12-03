@@ -13,7 +13,7 @@ I am a(n)
 
 and interested in
 
-- 🦾 Mechanical engineering | Automotive engineering | Robotics Engineering
+- 🦾 Mechanical engineering | Automotive engineering | Robotics engineering
 - 💪🏼 Work out
 - 💊 Pharmacy
 
