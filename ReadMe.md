@@ -1,6 +1,6 @@
-## Hello 👋
+# Hello 👋
 
-Experienced Developer | Kubernetes | Performance and Security System | AI | Computer Vision
+## Experienced Developer | Kubernetes | Performance and Security System | AI | Computer Vision
 
 I am a(n)
 
@@ -9,16 +9,12 @@ I am a(n)
 3. 🐳 Kubernetes DevOps Manager
 4. 🏰 System Architecture Consultant
 5. 📲 Next/React/React Native Frontend Developer
-6. 🛠 Electrician (Sometimes)
+6. 💡 Electrician (Sometimes)
 
-and
-
-- Professional in
-- Avatar is [Flashpoint Batman](<https://vsbattles.fandom.com/wiki/Batman_(Thomas_Wayne)>)
-
-Interested in
+and interested in
 
 - 🛠 Mechanical engineering | Automotive engineering
+- 💊 Pharmacy
 
 #### Tech stack I'm using:
 
