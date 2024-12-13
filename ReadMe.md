@@ -57,7 +57,7 @@ and interested in
 | Weak network        | Yasio, P2PCF, WebRTC-rs                                                                                        |
 | OLTP                | TiDB (No funcs, no triggers), YugabyteDB                                                                       |
 | HFT                 | TigerBeetleDB                                                                                                  |
-| CI                  | ArgoCD, Jenkins, Gitea Actions                                                                                 |
+| CI                  | ArgoCD, Jenkins, Gitea Actions (Single node only)                                                              |
 | LLM                 | WebLLM                                                                                                         |
 | IaC                 | Pulumi                                                                                                         |
 | Orchestration       | K3s, Nomad                                                                                                     |
