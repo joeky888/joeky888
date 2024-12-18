@@ -84,6 +84,7 @@ and interested in
 | iOS Emulator        | PlayCover (Apple Silicon, imitates an iPad)                                                                    |
 | Remote Desktop      | Sunshine (Server), Moonlight (Client), netris.me (GeforceNow-like)                                             |
 | Linux Kernel        | Zen Kernel (Arch tuned), Asterinas (Linux-compatible, in rust)                                                 |
+| Patch/Tune          | NVIDIA patch (NVENC acceleration)                                                                              |
 
 There are so many more deserving of investment, and there is so little time.
 
