@@ -59,6 +59,7 @@ and interested in
 | HFT                 | TigerBeetleDB                                                                                                  |
 | CI                  | ArgoCD, Jenkins, Gitea Actions (Single node only)                                                              |
 | LLM                 | WebLLM                                                                                                         |
+| Terminal            | Ghostty                                                                                                        |
 | IaC                 | Pulumi                                                                                                         |
 | Orchestration       | K3s, Nomad                                                                                                     |
 | Ingress             | LoxiLB (eBPF + http3), Cilium (eBPF, No http3), HAProxy (http3 requires recompiling)                           |
