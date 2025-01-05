@@ -85,7 +85,7 @@ and interested in
 | iOS Emulator        | PlayCover (Apple Silicon, imitates an iPad)                                                                    |
 | Remote Desktop      | Sunshine (Server), Moonlight (Client), netris.me (GeforceNow-like)                                             |
 | Linux Kernel        | Zen Kernel (Arch tuned), Asterinas (Linux-compatible, in rust)                                                 |
-| Patch/Mod           | NVIDIA patch (NVENC acceleration), NVIDIA DLSS Enabler mod (Intel, AMD, and NVIDIA GTX)                        |
+| Patch/Mod           | NVIDIA patch (NVENC, NVFBC acceleration), NVIDIA DLSS Enabler mod (Intel, AMD, and NVIDIA GTX)                 |
 | Vehicle             | Starlink Mini (in the car)                                                                                     |
 
 There are so many more deserving of investment, and there is so little time.
