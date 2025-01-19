@@ -19,26 +19,26 @@ and interested in
 
 #### Tech stack I'm using:
 
-| Tech             | Including but not limited to                                                                                                                           |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Language         | Go, Rust, TypeScript, Shell (Zsh, Fish and PowerShell)                                                                                                 |
-| Framework        | GoFiber, Fasthttp, Actix-Web, WS-tool, Ethers-rs, Next.js/node, Fresh/deno, Tailwind CSS                                                               |
-| Game engine      | Unity3D, Cocos Engine                                                                                                                                  |
-| SEO              | PageSpeed Insights                                                                                                                                     |
-| OLTP             | MySQL/PostgreSQL                                                                                                                                       |
-| Cache            | Valkey (Redis), DragonflyDB, KeyDB                                                                                                                     |
-| Wide column      | Cassandra, ScyllaDB                                                                                                                                    |
-| TSDB             | Loki, VictoriaMetrics                                                                                                                                  |
-| Dev Tools        | VSCode, Zed, [Neo]Vim, Helix (low-end hardwares), DBeaver (SQL), TablePlus (NoSQL), Alacritty (macOS) and Wezterm (Windows)                            |
-| Dev OS           | Mostly macOS and Windows, sometimes Arch Linux, LineageOS (Android), iOS                                                                               |
-| AI Assistants    | ChatGPT, Gemini, Microsoft Copilot                                                                                                                     |
-| CLI/TUI          | fastfetch, ripgrep, fd, fzf, oha, zellij, tmux, htop, bottom, dnslookup (DoH/DoT), mtr, xh, yt-dlp, streamlink, aria2, ffmpeg and curl                 |
-| Git              | tig, gitui, onefetch, gitleaks                                                                                                                         |
-| Container        | Podman + crun (Linux), Docker (macOS), Qemu (Windows)                                                                                                  |
-| InfoSec          | Wireguard, OpenVPN, DNS over HTTPS, CDN, mTLS, WAF, HSTS, Web-Check, and Mozilla Observatory                                                           |
-| Hacking          | traitor, sqlmap, masscan, rustscan, nmap, hashcat, sslscan                                                                                             |
-| Windows Emulator | Wine, Proton, Proton-GE                                                                                                                                |
-| Cloud Native     | Kubernetes, Helm, Terraform, Gitea, Drone (Gitness), Github Actions, Traefik, Linkerd2, Cert-Manager, Grafana, AlertManager, Vector.dev and Autoscaler |
+| Tech             | Including but not limited to                                                                                                                                     |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Language         | Go, Rust, TypeScript, Shell (Zsh, Fish and PowerShell)                                                                                                           |
+| Framework        | GoFiber, Fasthttp, Actix-Web, WS-tool, Ethers-rs, Next.js/node, Fresh/deno, Tailwind CSS                                                                         |
+| Game engine      | Unity3D, Cocos Engine                                                                                                                                            |
+| SEO              | PageSpeed Insights                                                                                                                                               |
+| OLTP             | MySQL/PostgreSQL                                                                                                                                                 |
+| Cache            | Valkey (Redis), DragonflyDB, KeyDB                                                                                                                               |
+| Wide column      | Cassandra, ScyllaDB                                                                                                                                              |
+| TSDB             | Loki, VictoriaMetrics                                                                                                                                            |
+| Dev Tools        | VSCode, Zed, [Neo]Vim, Helix (low-end hardwares), DBeaver (SQL), TablePlus (NoSQL), Alacritty (macOS) and Wezterm (Windows)                                      |
+| Dev OS           | Mostly macOS and Windows, sometimes Arch Linux, LineageOS (Android), iOS                                                                                         |
+| AI Assistants    | ChatGPT, Gemini, Microsoft Copilot                                                                                                                               |
+| CLI/TUI          | fastfetch, ripgrep, fd, fzf, oha, zellij, tmux, htop, bottom, dnslookup (DoH/DoT), mtr, xh, yt-dlp, streamlink, aria2, ffmpeg and curl                           |
+| Git              | tig, gitui, onefetch, gitleaks                                                                                                                                   |
+| Container        | Podman + crun (Linux), Docker (macOS), Qemu (Windows)                                                                                                            |
+| InfoSec          | Wireguard, OpenVPN, DNS over HTTPS, CDN, mTLS, WAF, HSTS, Web-Check, and Mozilla Observatory                                                                     |
+| Hacking          | traitor, sqlmap, masscan, rustscan, nmap, hashcat, sslscan                                                                                                       |
+| Windows Emulator | Wine, Proton, Proton-GE                                                                                                                                          |
+| Cloud Native     | Kubernetes, Helm, Terraform, Gitea, WoodpeckerCI (Drone fork), Github Actions, Traefik, Linkerd2, Cert-Manager, Grafana, AlertManager, Vector.dev and Autoscaler |
 
 #### New tech stack I'm evaluating:
 
