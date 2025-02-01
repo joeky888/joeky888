@@ -31,7 +31,7 @@ and interested in
 | TSDB             | Loki, VictoriaMetrics                                                                                                                                            |
 | Dev Tools        | VSCode, Zed, [Neo]Vim, Helix (low-end hardwares), DBeaver (SQL), TablePlus (NoSQL), Alacritty (macOS) and Wezterm (Windows)                                      |
 | Dev OS           | Mostly macOS and Windows, sometimes Arch Linux, LineageOS (Android), iOS                                                                                         |
-| AI Assistants    | ChatGPT, Gemini, Microsoft Copilot                                                                                                                               |
+| AI Assistants    | ChatGPT, DeepSeek, Gemini, Microsoft Copilot                                                                                                                     |
 | CLI/TUI          | fastfetch, ripgrep, fd, fzf, oha, zellij, tmux, htop, bottom, dnslookup (DoH/DoT), mtr, xh, yt-dlp, streamlink, aria2, ffmpeg and curl                           |
 | Git              | tig, gitui, onefetch, gitleaks                                                                                                                                   |
 | Container        | Podman + crun (Linux), Docker (macOS), Qemu (Windows)                                                                                                            |
