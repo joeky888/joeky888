@@ -58,6 +58,7 @@ and interested in
 | OLTP                | TiDB (No funcs, no triggers), YugabyteDB                                                                       |
 | HFT                 | TigerBeetleDB                                                                                                  |
 | CI                  | ArgoCD, Jenkins, Gitea Actions (Single node only)                                                              |
+| MLOps               | Git LFS on S3                                                                                                  |
 | LLM                 | WebLLM                                                                                                         |
 | Terminal            | Ghostty                                                                                                        |
 | IaC                 | Pulumi                                                                                                         |
