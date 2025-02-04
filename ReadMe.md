@@ -47,7 +47,7 @@ and interested in
 | ------------------- | -------------------------------------------------------------------------------------------------------------- |
 | Language            | Zig (replace unsafe rust), Vlang (Obfuscation, AV Evasion, Crawler), Carbon (replace c++)                      |
 | JS/TS Runtime       | Bun, Poolifier (Node), Poolifier-web-worker (Deno/Bun), QuickJS (The Next Generation)                          |
-| CLI/TUI             | git-delta, Ntop (Windows), Zenith (macOS/Linux), shpool, nvtop                                                 |
+| CLI/TUI             | git-delta, Ntop (Windows), Zenith (macOS/Linux), shpool, nvtop, lazysql                                        |
 | GUI                 | Tauri, Electrobun (bun)                                                                                        |
 | Binary Analysis     | ImHex (Patch), Tracy Profiler, WINSDK/bite                                                                     |
 | NAT Penetration     | frp, rathole                                                                                                   |
