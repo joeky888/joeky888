@@ -25,7 +25,8 @@ and interested in
 | Framework        | GoFiber, Fasthttp, Actix-Web, WS-tool, Ethers-rs, Next.js/node, Fresh/deno, Tailwind CSS                                                                                             |
 | Game engine      | Unity3D, Cocos Engine                                                                                                                                                                |
 | SEO              | PageSpeed Insights                                                                                                                                                                   |
-| OLTP             | MySQL/PostgreSQL                                                                                                                                                                     |
+| OLTP             | MySQL, PostgreSQL                                                                                                                                                                    |
+| ORM              | Gorm, Drizzle                                                                                                                                                                        |
 | Cache            | Valkey (Redis), DragonflyDB, KeyDB                                                                                                                                                   |
 | Wide column      | Cassandra, ScyllaDB                                                                                                                                                                  |
 | TSDB             | Loki, VictoriaMetrics                                                                                                                                                                |
