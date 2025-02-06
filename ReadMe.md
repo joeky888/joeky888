@@ -55,7 +55,7 @@ and interested in
 | File System         | Bcachefs (Linux 6.7+)                                                                                          |
 | IoT edge            | Turso, Supabase                                                                                                |
 | Backend             | Hono.js (edge native), Salvo.rs (http3/webtransport), Socketify.py (uws)                                       |
-| Weak network        | Yasio, P2PCF, WebRTC-rs                                                                                        |
+| Weak network        | Yasio, P2PCF, WebRTC-rs, PeerJS                                                                                |
 | OLTP                | TiDB (No funcs, no triggers), YugabyteDB                                                                       |
 | HFT                 | TigerBeetleDB                                                                                                  |
 | CI                  | ArgoCD, Jenkins, Gitea Actions (Single node only)                                                              |
