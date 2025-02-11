@@ -25,7 +25,7 @@ and interested in
 | Framework        | GoFiber, Fasthttp, Actix-Web, WS-tool, Ethers-rs, Next.js/node, Fresh/deno, Tailwind CSS                                                                                             |
 | Game engine      | Unity3D, Cocos Engine                                                                                                                                                                |
 | SEO              | PageSpeed Insights                                                                                                                                                                   |
-| OLTP             | MySQL, PostgreSQL                                                                                                                                                                    |
+| OLTP             | MySQL, PostgreSQL, libSQL                                                                                                                                                            |
 | ORM              | Gorm, Drizzle                                                                                                                                                                        |
 | Cache            | Valkey (Redis), DragonflyDB, KeyDB                                                                                                                                                   |
 | Wide column      | Cassandra, ScyllaDB                                                                                                                                                                  |
@@ -53,7 +53,7 @@ and interested in
 | NAT Penetration     | frp, rathole                                                                                                   |
 | Game engine         | Unreal (PuerTS)                                                                                                |
 | File System         | Bcachefs (Linux 6.7+)                                                                                          |
-| IoT edge            | Turso, Supabase                                                                                                |
+| IoT edge            | Supabase                                                                                                       |
 | Backend             | Hono.js (edge native), Salvo.rs (http3/webtransport), Socketify.py (uws)                                       |
 | Weak network        | Yasio, P2PCF, WebRTC-rs, PeerJS                                                                                |
 | OLTP                | TiDB (No funcs, no triggers), YugabyteDB                                                                       |
