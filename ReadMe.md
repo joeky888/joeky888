@@ -21,7 +21,7 @@ and interested in
 
 | Tech             | Including but not limited to                                                                                                                                                         |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Language         | Go, Rust, TypeScript, Shell (Zsh, Fish and PowerShell)                                                                                                                               |
+| Language         | Go, Rust, TypeScript, Python, Shell (Zsh, Fish and PowerShell)                                                                                                                       |
 | Framework        | GoFiber, Fasthttp, Actix-Web, WS-tool, Ethers-rs, Next.js/node, Fresh/deno, Tailwind CSS                                                                                             |
 | Game engine      | Unity3D, Cocos Engine                                                                                                                                                                |
 | SEO              | PageSpeed Insights                                                                                                                                                                   |
