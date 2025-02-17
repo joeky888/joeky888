@@ -36,7 +36,7 @@ and interested in
 | CLI/TUI          | fastfetch, ripgrep, fd, fzf, oha, zellij, tmux, htop, bottom, dnslookup (DoH/DoT), mtr, xh, yt-dlp, streamlink, aria2, ffmpeg and curl                                               |
 | Git              | tig, gitui, onefetch, gitleaks                                                                                                                                                       |
 | Container        | Podman + crun (Linux), Docker (macOS), Qemu (Windows)                                                                                                                                |
-| InfoSec          | Wireguard, OpenVPN, DNS over HTTPS, CDN, mTLS, WAF, HSTS, Web-Check, and Mozilla Observatory                                                                                         |
+| InfoSec          | Wireguard, OpenVPN, DNS over HTTPS, argon2, mTLS, WAF, HSTS, Web-Check, and Mozilla Observatory                                                                                      |
 | Hacking          | traitor, sqlmap, masscan, rustscan, nmap, hashcat, sslscan                                                                                                                           |
 | Windows Emulator | Wine, Proton, Proton-GE                                                                                                                                                              |
 | Cloud Native     | Kubernetes, Helm, Terraform, Gitea, DroneCI (Linux), WoodpeckerCI (Windows/macOS), Github Actions, Traefik, Linkerd2, Cert-Manager, Grafana, AlertManager, Vector.dev and Autoscaler |
