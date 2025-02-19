@@ -77,7 +77,7 @@ and interested in
 | Document/Graph DB   | DGraph, SurrealDB                                                                                              |
 | OLAP Warehouse      | ParadeDB, ClickHouse, DataBend                                                                                 |
 | Time-series DB      | InfluxDB 3 (Closed source for now), GreptimeDB, TDengine                                                       |
-| DL architecture     | Mamba                                                                                                          |
+| LLM architecture    | Mamba, exo (local cluster)                                                                                     |
 | Streaming           | Iggy, Redpanda                                                                                                 |
 | Stream processing   | RisingWave, Arroyo                                                                                             |
 | SSR/SSG             | Astro                                                                                                          |
