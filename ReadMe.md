@@ -81,6 +81,7 @@ and interested in
 | Streaming           | Iggy, Redpanda                                                                                                 |
 | Stream processing   | RisingWave, Arroyo                                                                                             |
 | SSR/SSG             | Astro                                                                                                          |
+| Wiki/Notes          | Typst                                                                                                          |
 | Documentation       | deno-gfm                                                                                                       |
 | Project Management  | MakePlane, AppFlowy, Zulip (PG), RocketChat (Mongo), Mattermost (PG, MySQL, No max user limits)                |
 | Windows Emulator    | Kegworks (Wineskin successor, closed-source), Whisky                                                           |
