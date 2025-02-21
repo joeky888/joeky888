@@ -84,6 +84,7 @@ and interested in
 | Wiki/Notes          | Typst + CeTZ                                                                                                   |
 | Documentation       | deno-gfm                                                                                                       |
 | Project Management  | MakePlane, AppFlowy, Zulip (PG), RocketChat (Mongo), Mattermost (PG, MySQL, No max user limits)                |
+| Hacking             | Flipper Zero (badusb/recording signals)                                                                        |
 | Windows Emulator    | Kegworks (Wineskin successor, closed-source), Whisky                                                           |
 | Android Emulator    | MuMuPlayer Pro (Windows and Apple Silicon, Trialware), FydeOS (Android in Container, Free/Paid), Waydroid      |
 | iOS Emulator        | PlayCover (Apple Silicon, imitates an iPad)                                                                    |
