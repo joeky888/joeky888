@@ -31,7 +31,7 @@ and interested in
 | Wide column      | Cassandra, ScyllaDB                                                                                                                                                                  |
 | TSDB             | Loki, VictoriaMetrics                                                                                                                                                                |
 | Dev Tools        | VSCode (Go, Rust), Zed (TypeScript, Python), [Neo]Vim (Shell, PowerShell), Helix (low-end hardwares), DBeaver (SQL), TablePlus (NoSQL), Alacritty (macOS) and Wezterm (Windows)      |
-| Dev OS           | Mostly macOS and Windows, sometimes Arch Linux, LineageOS (Android), iOS                                                                                                             |
+| Dev OS           | Mostly macOS and Windows, sometimes Arch Linux, LineageOS (Android), iOS, FydeOS (Chrome OS)                                                                                         |
 | AI Assistants    | ChatGPT, DeepSeek, Gemini, Microsoft Copilot                                                                                                                                         |
 | CLI/TUI          | fastfetch, ripgrep, fd, fzf, oha, zellij, tmux, htop, bottom, dnslookup (DoH/DoT), mtr, xh, yt-dlp, streamlink, aria2, ffmpeg and curl                                               |
 | Git              | tig, gitui, onefetch, gitleaks                                                                                                                                                       |
@@ -86,7 +86,7 @@ and interested in
 | Project Management  | MakePlane, AppFlowy, Zulip (PG), RocketChat (Mongo), Mattermost (PG, MySQL, No max user limits)                |
 | Hacking             | Flipper Zero (badusb/recording signals), M5Stack Cardputer (M5 Bruce/Inexpensive flipper 0 knock-off)          |
 | Windows Emulator    | Kegworks (Wineskin successor, closed-source), Whisky                                                           |
-| Android Emulator    | MuMuPlayer Pro (Windows and Apple Silicon, Trialware), FydeOS (Android in Container, Free/Paid), Waydroid      |
+| Android Emulator    | BlueStacks Air (freeware), MuMuPlayer Pro (Trialware), Waydroid                                                |
 | iOS Emulator        | PlayCover (Apple Silicon, imitates an iPad)                                                                    |
 | Remote Desktop      | Sunshine (Server), Moonlight (Client), netris.me (GeforceNow-like)                                             |
 | Linux Kernel        | Zen Kernel (Arch tuned), Asterinas (Linux-compatible, in rust)                                                 |
