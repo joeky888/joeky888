@@ -86,7 +86,7 @@ and interested in
 | Project Management  | MakePlane, AppFlowy, Zulip (PG), RocketChat (Mongo), Mattermost (PG, MySQL, No max user limits)                |
 | Hacking             | Flipper Zero (badusb/recording signals), M5Stack Cardputer (M5 Bruce/Inexpensive flipper 0 knock-off)          |
 | Windows Emulator    | Kegworks (Wineskin successor, closed-source), Whisky                                                           |
-| Android Emulator    | BlueStacks Air (freeware), MuMuPlayer Pro (Trialware), Waydroid                                                |
+| Android Emulator    | BlueStacks Air (freeware), Waydroid                                                                            |
 | iOS Emulator        | PlayCover (Apple Silicon, imitates an iPad)                                                                    |
 | Remote Desktop      | Sunshine (Server), Moonlight (Client), netris.me (GeforceNow-like)                                             |
 | Linux Kernel        | Zen Kernel (Arch tuned), Asterinas (Linux-compatible, in rust)                                                 |
