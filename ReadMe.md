@@ -60,6 +60,7 @@ and interested in
 | HFT                 | TigerBeetleDB                                                                                                  |
 | CI                  | ArgoCD, Jenkins, Gitea Actions (Single node only)                                                              |
 | MLOps               | Git LFS on S3                                                                                                  |
+| ML                  | executorch                                                                                                     |
 | LLM                 | WebLLM                                                                                                         |
 | Terminal            | Ghostty                                                                                                        |
 | IaC                 | Pulumi                                                                                                         |
