@@ -85,7 +85,7 @@ and interested in
 | SSR/SSG             | Astro                                                                                                          |
 | Wiki/Notes          | Typst + CeTZ                                                                                                   |
 | Documentation       | deno-gfm                                                                                                       |
-| Project Management  | MakePlane, AppFlowy, Zulip (PG), RocketChat (Mongo), Mattermost (PG, MySQL, No max user limits)                |
+| Project Management  | MakePlane, AppFlowy, Zulip (PG), RocketChat (Mongo), Mattermost (PG, MySQL, No max user limits), Revolt.chat   |
 | Hacking             | Flipper Zero (badusb/recording signals), M5Stack Cardputer (M5 Bruce/Inexpensive flipper 0 knock-off)          |
 | Windows Emulator    | Kegworks (Wineskin successor, closed-source), Whisky                                                           |
 | Android Emulator    | BlueStacks Air (freeware), Waydroid                                                                            |
