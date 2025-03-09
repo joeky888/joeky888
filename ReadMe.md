@@ -37,7 +37,7 @@ and interested in
 | Git              | tig, gitui, onefetch, gitleaks                                                                                                                                                       |
 | Container        | Podman + crun (Linux), Docker (macOS), Qemu (Windows)                                                                                                                                |
 | InfoSec          | Wireguard, DOH, argon2, mTLS, WAF, HSTS, Web-Check, and Mozilla Observatory                                                                                                          |
-| Hacking          | traitor, sqlmap, masscan, rustscan, nmap, hashcat, sslscan                                                                                                                           |
+| Hacking          | traitor, sqlmap, masscan, rustscan, nmap, hashcat, sslscan, afrog                                                                                                                    |
 | Windows Emulator | Wine, Proton, Proton-GE                                                                                                                                                              |
 | Cloud Native     | Kubernetes, Helm, Terraform, Gitea, DroneCI (Linux), WoodpeckerCI (Windows/macOS), Github Actions, Traefik, Linkerd2, Cert-Manager, Grafana, AlertManager, Vector.dev and Autoscaler |
 
