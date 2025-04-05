@@ -9,11 +9,12 @@ I am a(n)
 3. 🐳 Kubernetes DevOps Manager
 4. 🏰 System Architecture Consultant
 5. 📲 Next/React/React Native/Flutter Frontend Developer
-6. 🛠 Electrician (Sometimes)
+6. 🛠 Electrician
+7. 🏎️ Automotive engineer
 
 and interested in
 
-- 🦾 Mechanical engineering | Automotive engineering | Robotics engineering
+- 🦾 Robotics engineering
 - 💪🏼 Work out
 - 💊 Pharmacy
 
@@ -22,7 +23,7 @@ and interested in
 | Tech             | Including but not limited to                                                                                                                                                    |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Language         | Go, Rust, TypeScript, Python, Shell (Zsh, Fish and PowerShell), Wikitext (MediaWiki)                                                                                            |
-| Framework        | GoFiber, Fasthttp, Actix-Web, WS-tool, Ethers-rs, Fresh (deno), Next.js (node), Tailwind CSS                                                                                    |
+| Framework        | GoFiber, Fasthttp, Ethers-rs, Fresh (deno), Next.js (node), Tailwind CSS                                                                                                        |
 | Game engine      | Unity3D, Cocos Engine                                                                                                                                                           |
 | SEO              | PageSpeed Insights                                                                                                                                                              |
 | OLTP             | MySQL, PostgreSQL, libSQL                                                                                                                                                       |
