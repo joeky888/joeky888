@@ -1,6 +1,6 @@
 ## Hello 👋
 
-💻 Experienced Developer | Kubernetes | Performance | Security | AI | MLOps
+💻 Experienced Developer | Kubernetes | Performance | Security | AI
 
 I am a(n)
 
@@ -10,7 +10,7 @@ I am a(n)
 4. 🏰 System Architecture Consultant
 5. 📲 Next/React/React Native/Flutter Frontend Developer
 6. 🛠 Electrician
-7. 🏎️ Automotive engineer
+7. 🏎️ Automotive Engineering Student
 
 and interested in
 
