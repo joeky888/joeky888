@@ -2,6 +2,8 @@
 
 💻 Experienced Developer | Kubernetes | Performance | Security | AI
 
+I studied Electrical Engineering in high school and Computer Science in college.
+
 I am a(n)
 
 1. 📈 FinTech Backend Developer
@@ -9,8 +11,8 @@ I am a(n)
 3. 🐳 Kubernetes DevOps Manager
 4. 🏰 System Architecture Consultant
 5. 📲 Next/React/React Native/Flutter Frontend Developer
-6. 🛠 Electrician
-7. 🏎️ Automotive Engineering Student
+6. 🛠 Electrician (certified)
+7. 🏎️ Automotive Engineering Master's student
 
 and interested in
 
