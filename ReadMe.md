@@ -42,8 +42,8 @@ and interested in
 | InfoSec          | Wireguard, DOH, argon2, mTLS, WAF, HSTS, Web-Check, and Mozilla Observatory                                                                                                     |
 | Hacking          | traitor, sqlmap, masscan, rustscan, nmap, hashcat, sslscan, afrog                                                                                                               |
 | Windows Emulator | Wine, Proton, Proton-GE                                                                                                                                                         |
-| Private Cloud    | K3s, WoodpeckerCI (Windows/macOS), Cilium (eBPF CNI and service mesh), RenovateBot                                                                                              |
-| Cloud Native     | Kubernetes, Helm, Terraform, Gitea, DroneCI (Linux), Github Actions, Traefik, Linkerd2, Cert-Manager, Grafana, AlertManager, Vector.dev, Autoscaler                             |
+| Private Cloud    | K3s, Gitea, WoodpeckerCI (Windows/macOS), Cilium (eBPF CNI and service mesh), RenovateBot                                                                                       |
+| Cloud Native     | Kubernetes, Helm, Terraform, DroneCI (Linux), Github Actions, Traefik, Linkerd2, Cert-Manager, Grafana, AlertManager, Vector.dev, Autoscaler                                    |
 
 #### New tech stack I'm evaluating:
 
