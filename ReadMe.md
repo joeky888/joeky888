@@ -2,7 +2,7 @@
 
 💻 Experienced Developer | Kubernetes | Performance | Security | AI
 
-I studied Electrical Engineering in high school and Computer Science in college.
+Previously, I studied Electrical Engineering in high school and Computer Science in college.
 
 I am a(n)
 
@@ -30,7 +30,7 @@ and interested in
 | SEO              | PageSpeed Insights                                                                                                                                                              |
 | OLTP             | MySQL, PostgreSQL, libSQL                                                                                                                                                       |
 | ORM              | Gorm, Drizzle                                                                                                                                                                   |
-| Cache            | Valkey (Redis), DragonflyDB, KeyDB                                                                                                                                              |
+| Cache            | DragonflyDB, ~~KeyDB~~                                                                                                                                                          |
 | Wide column      | Cassandra, ScyllaDB                                                                                                                                                             |
 | TSDB             | Loki, VictoriaMetrics                                                                                                                                                           |
 | Dev Tools        | VSCode (Go, Rust), Zed (TypeScript, Python), [Neo]Vim (Shell, PowerShell), Helix (low-end hardwares), DBeaver (SQL), TablePlus (NoSQL), Alacritty (macOS) and Wezterm (Windows) |
@@ -43,7 +43,7 @@ and interested in
 | Hacking          | traitor, sqlmap, masscan, rustscan, nmap, hashcat, sslscan, afrog                                                                                                               |
 | Windows Emulator | Wine, Proton, Proton-GE                                                                                                                                                         |
 | Private Cloud    | K3s, Gitea, WoodpeckerCI (Windows/macOS), Cilium (eBPF CNI and service mesh), RenovateBot                                                                                       |
-| Cloud Native     | Kubernetes, Helm, Terraform, DroneCI (Linux), Github Actions, Traefik, Linkerd2, Cert-Manager, Grafana, AlertManager, Vector.dev, Autoscaler                                    |
+| Cloud Native     | Kubernetes, Helm, Terraform, DroneCI (Linux), Github Actions, Traefik, Cert-Manager, Grafana, AlertManager, Vector.dev, Autoscaler                                              |
 
 #### New tech stack I'm evaluating:
 
@@ -58,7 +58,7 @@ and interested in
 | Game engine         | Unreal (PuerTS)                                                                                                |
 | File System         | Bcachefs (Linux 6.7+)                                                                                          |
 | IoT edge            | Supabase                                                                                                       |
-| Backend             | Hono.js (edge native), Salvo.rs (http3/webtransport), Socketify.py (uws)                                       |
+| Backend             | Hono.js + htmx (edge native), Salvo.rs (http3/webtransport), Socketify.py (uws)                                |
 | Weak network        | Yasio, P2PCF, WebRTC-rs, PeerJS                                                                                |
 | OLTP                | TiDB (No funcs, no triggers), YugabyteDB                                                                       |
 | HFT                 | TigerBeetleDB                                                                                                  |
