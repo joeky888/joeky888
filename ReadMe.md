@@ -22,6 +22,8 @@ and interested in
 
 #### Tech stack I'm using:
 
+(strikethrough means I no longer use it)
+
 | Tech             | Including but not limited to                                                                                                                                                    |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Language         | Go, Rust, TypeScript, Python, Shell (Zsh, Fish and PowerShell), Wikitext (MediaWiki)                                                                                            |
@@ -30,8 +32,8 @@ and interested in
 | SEO              | PageSpeed Insights                                                                                                                                                              |
 | OLTP             | MySQL, PostgreSQL, libSQL                                                                                                                                                       |
 | ORM              | Gorm, Drizzle                                                                                                                                                                   |
-| Cache            | DragonflyDB, ~~KeyDB~~                                                                                                                                                          |
-| Wide column      | Cassandra, ScyllaDB                                                                                                                                                             |
+| Cache            | DragonflyDB, ~~KeyDB~~, ~~Valkey (Redis)~~                                                                                                                                      |
+| Wide column      | ScyllaDB, ~~Cassandra~~                                                                                                                                                         |
 | TSDB             | Loki, VictoriaMetrics                                                                                                                                                           |
 | Dev Tools        | VSCode (Go, Rust), Zed (TypeScript, Python), [Neo]Vim (Shell, PowerShell), Helix (low-end hardwares), DBeaver (SQL), TablePlus (NoSQL), Alacritty (macOS) and Wezterm (Windows) |
 | Dev OS           | Mostly macOS and Windows, sometimes Arch Linux, Nix, LineageOS (Android), iOS, FydeOS (Chrome OS)                                                                               |
@@ -42,8 +44,8 @@ and interested in
 | InfoSec          | Wireguard, DOH, argon2, mTLS, WAF, HSTS, Web-Check, and Mozilla Observatory                                                                                                     |
 | Hacking          | traitor, sqlmap, masscan, rustscan, nmap, hashcat, sslscan, afrog                                                                                                               |
 | Windows Emulator | Wine, Proton, Proton-GE                                                                                                                                                         |
-| Private Cloud    | K3s, Gitea, WoodpeckerCI (Windows/macOS), Cilium (eBPF CNI and service mesh), RenovateBot                                                                                       |
-| Cloud Native     | Kubernetes, Helm, Terraform, DroneCI (Linux), Github Actions, Traefik, Cert-Manager, Grafana, AlertManager, Vector.dev, Autoscaler                                              |
+| Private Cloud    | K3s, Gitea, WoodpeckerCI, Cilium (eBPF CNI and service mesh), RenovateBot                                                                                                       |
+| Cloud Native     | Kubernetes, Helm, Terraform, ~~DroneCI~~, Github Actions, Traefik, Cert-Manager, Grafana, AlertManager, Vector.dev, Autoscaler                                                  |
 
 #### New tech stack I'm evaluating:
 
