@@ -74,7 +74,7 @@ and interested in
 | Ingress             | LoxiLB (eBPF + http3), HAProxy (http3 requires recompiling)                                                    |
 | Container           | bsdpot (FreeBSD jails)                                                                                         |
 | Container Runtime   | Kata containers, youki, podman (`CONTAINERS_MACHINE_PROVIDER="applehv" or "hyperv"` for mac, win respectively) |
-| Monitoring          | Netdata, OpenObserve, Sniffnet, HyperDX (requires clickhouse)                                                  |
+| Monitoring          | Netdata, OpenObserve, Sniffnet, SigNoz (clickhouse-based), HyperDX (clickhouse-based)                          |
 | Hot ENV             | Kine, Consul (Multi cluster)                                                                                   |
 | Test                | Yaak (tauri, postman alike)                                                                                    |
 | Cache               | ReadySet                                                                                                       |
