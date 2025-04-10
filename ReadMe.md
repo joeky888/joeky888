@@ -60,7 +60,7 @@ and interested in
 | Game engine         | Unreal (PuerTS)                                                                                                |
 | File System         | Bcachefs (Linux 6.7+)                                                                                          |
 | IoT edge            | Supabase                                                                                                       |
-| Backend             | Hono.js + htmx (edge native), Salvo.rs (http3/webtransport), Socketify.py (uws)                                |
+| Backend             | Hono.js + htmx (edge native, APIs for mobile apps), Salvo.rs (http3/webtransport), Socketify.py (uws)          |
 | Weak network        | Yasio, P2PCF, WebRTC-rs, PeerJS                                                                                |
 | OLTP                | TiDB (No funcs, no triggers), YugabyteDB                                                                       |
 | HFT                 | TigerBeetleDB                                                                                                  |
