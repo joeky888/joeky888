@@ -51,7 +51,7 @@ and interested in
 
 | Tech                |                                                                                                                |
 | ------------------- | -------------------------------------------------------------------------------------------------------------- |
-| Language            | Zig (replace unsafe rust), Vlang (Obfuscation, AV Evasion, Crawler), Carbon (replace c++)                      |
+| Language            | Zig (replace unsafe rust), MoonBit                                                                             |
 | JS/TS Runtime       | Bun, Poolifier (Node), Poolifier-web-worker (Deno/Bun), QuickJS (The Next Generation)                          |
 | CLI/TUI             | git-delta, Ntop (Windows), Zenith (macOS/Linux), shpool, nvtop, lazysql                                        |
 | GUI                 | Tauri, Pywebview, NiceGUI (Python-based, native mode uses pywebview. 3D Scene)                                 |
