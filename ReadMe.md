@@ -10,7 +10,7 @@ I am a(n)
 2. 🎮 2&3D Game Frontend Developer (Sometimes)
 3. 🐳 Kubernetes DevOps Manager
 4. 🏰 System Architecture Consultant
-5. 📲 Next/React/React Native/Flutter Frontend Developer
+5. 📲 React/React Native/Flutter Frontend Developer
 6. 🛠 Electrician (certified)
 7. 🏎️ Automotive Engineering Master's student
 
