@@ -53,8 +53,8 @@ and interested in
 | ------------------- | -------------------------------------------------------------------------------------------------------------- |
 | Language            | Zig (replace unsafe rust), MoonBit                                                                             |
 | JS/TS Runtime       | Bun, Poolifier (Node), Poolifier-web-worker (Deno/Bun), QuickJS (The Next Generation)                          |
-| CLI/TUI             | git-delta, Ntop (Windows), Zenith (macOS/Linux), shpool, nvtop, lazysql                                        |
-| GUI                 | Tauri, Pywebview, NiceGUI (Python-based, native mode uses pywebview. 3D Scene)                                 |
+| CLI/TUI             | git-delta, shpool, nvtop, lazysql                                                                              |
+| GUI                 | Tauri, Pywebview, NiceGUI                                                                                      |
 | Binary Analysis     | ImHex (Patch), Tracy Profiler, WINSDK/bite                                                                     |
 | NAT Penetration     | frp, rathole                                                                                                   |
 | Game engine         | Unreal (PuerTS)                                                                                                |
