@@ -59,7 +59,7 @@ and interested in
 | NAT Penetration     | frp, rathole                                                                                                   |
 | Game engine         | Unreal (PuerTS)                                                                                                |
 | File System         | Bcachefs (Linux 6.7+)                                                                                          |
-| IoT edge            | Supabase                                                                                                       |
+| IoT edge            | Supabase, wasm onnx                                                                                            |
 | Backend             | Hono.js + htmx (edge native, APIs for mobile apps), Salvo.rs (http3/webtransport), Socketify.py (uws)          |
 | Weak network        | Yasio, P2PCF, WebRTC-rs, PeerJS                                                                                |
 | OLTP                | TiDB (No funcs, no triggers), YugabyteDB                                                                       |
