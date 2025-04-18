@@ -27,7 +27,7 @@ and interested in
 | Tech             | Including but not limited to                                                                                                                                                    |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Language         | Go, Rust, TypeScript, Python, Shell (Zsh, Fish and PowerShell), Wikitext (MediaWiki)                                                                                            |
-| Framework        | GoFiber, Fasthttp, Ethers-rs, Fresh (deno), ~~Next.js (node)~~, Tailwind CSS                                                                                                    |
+| Framework        | GoFiber, Fasthttp, Fastwebsockets, Ethers-rs, Fresh (deno), ~~Next.js (node)~~, Tailwind CSS                                                                                    |
 | Game engine      | ~~Unity3D~~, Cocos Engine                                                                                                                                                       |
 | SEO              | PageSpeed Insights                                                                                                                                                              |
 | OLTP             | MySQL, PostgreSQL, libSQL                                                                                                                                                       |
