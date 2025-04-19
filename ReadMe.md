@@ -65,6 +65,7 @@ and interested in
 | OLTP                | TiDB (No funcs, no triggers), Limbo (sqlite), YugabyteDB                                                       |
 | HFT                 | TigerBeetleDB                                                                                                  |
 | CI                  | ArgoCD                                                                                                         |
+| Cipher              | xor simd                                                                                                       |
 | MLOps               | Git LFS on S3                                                                                                  |
 | ML                  | executorch                                                                                                     |
 | LLM                 | WebLLM                                                                                                         |
