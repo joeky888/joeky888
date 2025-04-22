@@ -35,7 +35,7 @@ and interested in
 | ORM              | Gorm, Drizzle                                                                                                                                                                   |
 | Cache            | DragonflyDB, ~~KeyDB~~, ~~Valkey (Redis)~~                                                                                                                                      |
 | Wide column      | ScyllaDB, ~~Cassandra~~                                                                                                                                                         |
-| TSDB             | Loki, VictoriaMetrics                                                                                                                                                           |
+| TSDB             | Loki, VictoriaMetrics, ~~Prometheus~~                                                                                                                                           |
 | Dev Tools        | VSCode (Go, Rust), Zed (TypeScript, Python), [Neo]Vim (Shell, PowerShell), Helix (low-end hardwares), DBeaver (SQL), TablePlus (NoSQL), Alacritty (macOS) and Wezterm (Windows) |
 | Dev OS           | Mostly macOS and Windows, sometimes Arch Linux, Nix, LineageOS (Android), iOS, FydeOS (Chrome OS)                                                                               |
 | AI Assistants    | ChatGPT, Grok, DeepSeek (Pake), Gemini, Microsoft Copilot                                                                                                                       |
