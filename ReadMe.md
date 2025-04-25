@@ -82,7 +82,7 @@ and interested in
 | Cache               | ReadySet                                                                                                       |
 | Full-text           | Meilisearch, ManticoreSearch, Tantivy, SeekStorm                                                               |
 | Vector/Embedding DB | Milvus (GPU), Qdrant (CPU), LanceDB (GPU), Turso (Faiss), ChromaDB                                             |
-| Data Analysis       | DuckDB, Polars                                                                                                 |
+| Data Analysis       | pg_duckdb, DuckDB, Polars                                                                                      |
 | Document/Graph DB   | DGraph, SurrealDB                                                                                              |
 | OLAP Warehouse      | ParadeDB, ClickHouse, DataBend                                                                                 |
 | Time-series DB      | InfluxDB 3 (Closed source for now), GreptimeDB, TDengine                                                       |
