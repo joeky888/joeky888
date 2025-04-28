@@ -68,8 +68,7 @@ and interested in
 | CI                  | ArgoCD                                                                                                         |
 | Cipher              | xor simd                                                                                                       |
 | MLOps               | Git LFS on S3                                                                                                  |
-| ML                  | executorch                                                                                                     |
-| LLM                 | WebLLM                                                                                                         |
+| LLM                 | GPUStack, executorch, WebLLM                                                                                   |
 | Terminal            | Ghostty                                                                                                        |
 | IaC                 | Pulumi                                                                                                         |
 | Orchestration       | Nomad                                                                                                          |
