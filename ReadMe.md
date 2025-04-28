@@ -89,6 +89,7 @@ and interested in
 | Streaming           | Iggy, Redpanda                                                                                                 |
 | Stream processing   | RisingWave, Arroyo                                                                                             |
 | SSR/SSG             | Astro                                                                                                          |
+| Slides              | slidev                                                                                                         |
 | Wiki/Notes          | Typst + CeTZ                                                                                                   |
 | Documentation       | deno-gfm                                                                                                       |
 | Project Management  | MakePlane, AppFlowy, Zulip (PG), RocketChat (Mongo), Mattermost (PG, MySQL, No max user limits), Revolt.chat   |
