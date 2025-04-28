@@ -68,7 +68,6 @@ and interested in
 | CI                  | ArgoCD                                                                                                         |
 | Cipher              | xor simd                                                                                                       |
 | MLOps               | Git LFS on S3                                                                                                  |
-| LLM                 | GPUStack, executorch, WebLLM                                                                                   |
 | Terminal            | Ghostty                                                                                                        |
 | IaC                 | Pulumi                                                                                                         |
 | Orchestration       | Nomad                                                                                                          |
@@ -85,7 +84,8 @@ and interested in
 | Document/Graph DB   | DGraph, SurrealDB                                                                                              |
 | OLAP Warehouse      | ParadeDB, ClickHouse, DataBend                                                                                 |
 | Time-series DB      | InfluxDB 3 (Closed source for now), GreptimeDB, TDengine                                                       |
-| LLM architecture    | Mamba, exo (local cluster, ollama alternative)                                                                 |
+| LLM                 | executorch, WebLLM                                                                                             |
+| LLM architecture    | GPUStack, Mamba, exo (local cluster, ollama alternative)                                                       |
 | Streaming           | Iggy, Redpanda                                                                                                 |
 | Stream processing   | RisingWave, Arroyo                                                                                             |
 | SSR/SSG             | Astro                                                                                                          |
