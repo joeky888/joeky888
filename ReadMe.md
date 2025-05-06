@@ -46,7 +46,7 @@ and interested in
 | Hacking          | traitor, sqlmap, masscan, rustscan, nmap, hashcat, sslscan, afrog                                                                                                               |
 | Windows Emulator | Wine, Proton, Proton-GE                                                                                                                                                         |
 | Private Cloud    | K3s, Gitea, WoodpeckerCI, Cilium (eBPF CNI and service mesh), RenovateBot                                                                                                       |
-| Cloud Native     | Kubernetes, Helm, Terraform, ~~DroneCI~~, Github Actions, Traefik, Cert-Manager, Grafana, AlertManager, Vector.dev, Autoscaler                                                  |
+| Cloud Native     | Kubernetes, Helm, Terraform, ~~Linkerd2~~, ~~DroneCI~~, Github Actions, Traefik, Cert-Manager, Grafana, AlertManager, ~~Promtail~~, Vector.dev, Autoscaler                      |
 
 #### New tech stack I'm evaluating:
 
