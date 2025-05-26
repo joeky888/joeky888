@@ -52,7 +52,7 @@ and interested in
 
 | Tech                |                                                                                                                |
 | ------------------- | -------------------------------------------------------------------------------------------------------------- |
-| Language            | Zig (replace unsafe rust), MoonBit                                                                             |
+| Language            | Mojo, Zig (replace unsafe rust), MoonBit                                                                       |
 | JS/TS Runtime       | Bun, Poolifier (Node), Poolifier-web-worker (Deno/Bun), QuickJS (The Next Generation)                          |
 | CLI/TUI             | git-delta, shpool, nvtop, lazysql                                                                              |
 | GUI                 | Tauri, Pywebview, NiceGUI                                                                                      |
