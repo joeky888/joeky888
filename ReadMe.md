@@ -85,7 +85,7 @@ and interested in
 | Document/Graph DB   | DGraph, SurrealDB                                                                                              |
 | OLAP Warehouse      | ParadeDB, ClickHouse, DataBend                                                                                 |
 | Time-series DB      | InfluxDB 3 (Closed source for now), GreptimeDB, TDengine                                                       |
-| LLM                 | executorch, WebLLM                                                                                             |
+| ML Inference        | executorch, burn (rust, onnx), WebLLM                                                                          |
 | LLM architecture    | GPUStack, Mamba, exo (local cluster, ollama alternative)                                                       |
 | Streaming           | Iggy, Redpanda                                                                                                 |
 | Stream processing   | RisingWave, Arroyo                                                                                             |
