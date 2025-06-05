@@ -84,7 +84,7 @@ and interested in
 | Data Analysis       | pg_duckdb, DuckDB, Polars                                                                                      |
 | Document/Graph DB   | DGraph, SurrealDB                                                                                              |
 | OLAP Warehouse      | ParadeDB, ClickHouse, DataBend                                                                                 |
-| Time-series DB      | InfluxDB 3 (Closed source for now), GreptimeDB, TDengine                                                       |
+| Time-series DB      | InfluxDB, GreptimeDB, TDengine                                                                                 |
 | ML Inference        | executorch, burn (rust, onnx), WebLLM                                                                          |
 | LLM architecture    | GPUStack, Mamba, exo (local cluster, ollama alternative)                                                       |
 | Streaming           | Iggy, Redpanda                                                                                                 |
