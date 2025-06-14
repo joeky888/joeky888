@@ -60,7 +60,7 @@ and interested in
 | NAT Penetration     | frp, rathole                                                                                                   |
 | Game engine         | Unreal (PuerTS)                                                                                                |
 | File System         | Bcachefs (Linux 6.7+)                                                                                          |
-| IoT edge            | Supabase, wasm onnx                                                                                            |
+| IoT edge            | Supabase                                                                                                       |
 | Backend             | Hono.js + htmx (edge native, APIs for mobile apps), Salvo.rs (http3/webtransport), Socketify.py (uws)          |
 | Weak network        | Yasio, P2PCF, WebRTC-rs, PeerJS                                                                                |
 | OLTP                | TiDB (No funcs, no triggers), Limbo (sqlite), YugabyteDB                                                       |
@@ -85,7 +85,7 @@ and interested in
 | Document/Graph DB   | DGraph, SurrealDB                                                                                              |
 | OLAP Warehouse      | ParadeDB, ClickHouse, DataBend                                                                                 |
 | Time-series DB      | InfluxDB, GreptimeDB, TDengine                                                                                 |
-| ML Inference        | executorch, burn (rust, onnx), WebLLM                                                                          |
+| ML Inference        | onnxruntime (Desktop), executorch (Mobile), burn (rust, onnx), WebLLM                                          |
 | LLM architecture    | GPUStack, Mamba, exo (local cluster, ollama alternative)                                                       |
 | Streaming           | Iggy, Redpanda                                                                                                 |
 | Stream processing   | RisingWave, Arroyo                                                                                             |
