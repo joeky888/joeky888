@@ -101,6 +101,7 @@ and interested in
 | iOS Emulator        | PlayCover (Apple Silicon, imitates an iPad)                                                                    |
 | Remote Desktop      | Sunshine (Server), Moonlight (Client), netris.me (GeforceNow-like)                                             |
 | Bittorrent          | rqbit (cli, tauri)                                                                                             |
+| Linux               | Bazzite (SteamOS based)                                                                                        |
 | Linux Kernel        | Zen Kernel (Arch tuned), Asterinas (Linux-compatible, in rust)                                                 |
 | Nvidia Patch/Mod    | NVIDIA patch (NVENC, NVFBC acceleration), DLSSEnhancer mod (Fork of DLSSTweaks)                                |
 | GPU Patch/Mod       | NVIDIA DLSS Enabler mod (for non-RTX GPUs like Intel, AMD, and NVIDIA GTX)                                     |
