@@ -22,7 +22,7 @@ and interested in
 
 #### Tech stack I'm using:
 
-(strikethrough means I no longer use it)
+(strikethrough means I no longer use it or interested)
 
 | Tech             | Including but not limited to                                                                                                                                                    |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -59,7 +59,7 @@ and interested in
 | Binary Analysis     | ImHex (Patch), Tracy Profiler, WINSDK/bite                                                                     |
 | NAT Penetration     | frp, rathole                                                                                                   |
 | Game engine         | Unreal (PuerTS)                                                                                                |
-| File System         | Bcachefs (Linux 6.7+)                                                                                          |
+| File System         | ~~Bcachefs (Linux 6.7+)~~                                                                                      |
 | IoT edge            | Supabase                                                                                                       |
 | Backend             | Hono.js + htmx (edge native, APIs for mobile apps), Salvo.rs (http3/webtransport), Socketify.py (uws)          |
 | Weak network        | Yasio, P2PCF, WebRTC-rs, PeerJS                                                                                |
