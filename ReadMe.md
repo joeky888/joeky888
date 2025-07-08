@@ -11,8 +11,9 @@ I am a(n)
 3. 🐳 Kubernetes DevOps Manager
 4. 🏰 System Architecture Consultant
 5. 📲 React/React Native/Flutter Frontend Developer
-6. 🛠 Electrician (certified)
-7. 🏎️ Automotive Engineering Master's student
+6. 🔩 Electrician (certified)
+7. 🛠 Automotive Mechanic (trained)
+8. 🏎️ Automotive Engineering Master's student
 
 and interested in
 
