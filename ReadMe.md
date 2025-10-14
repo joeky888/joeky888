@@ -2,9 +2,9 @@
 
 💻 Experienced Developer | Kubernetes | Performance | Security | AI
 
-Previously, I studied Electrical Engineering in high school and Computer Science in college.
+I studied Electrical Engineering in high school and Computer Science in college in the past.
 
-Now, I am a(n)
+I am a(n)
 
 1. 📈 FinTech Backend Developer
 2. 🎮 2&3D Game Frontend Developer (Sometimes)
