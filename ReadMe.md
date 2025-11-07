@@ -65,7 +65,7 @@ and interested in
 | IoT edge            | Supabase                                                                                                       |
 | Backend             | Hono.js + htmx (edge native, APIs for mobile apps), Salvo.rs (http3/webtransport), Socketify.py (uws)          |
 | Weak network        | Yasio, P2PCF, WebRTC-rs, PeerJS                                                                                |
-| OLTP                | TiDB (No funcs, no triggers), Limbo (sqlite), YugabyteDB                                                       |
+| OLTP                | TiDB (No funcs, no triggers), Turso (sqlite), YugabyteDB                                                       |
 | HFT                 | TigerBeetleDB                                                                                                  |
 | CI                  | ArgoCD                                                                                                         |
 | Cipher              | xor simd                                                                                                       |
