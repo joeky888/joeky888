@@ -111,6 +111,3 @@ and interested in
 | File and Office     | OpenCloud (Nextcloud alternative)                                                                              |
 
 There are so many more deserving of investment, and there is so little time.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeky888&hide=html&theme=dark)
-![joeky888's github stats](https://github-readme-stats.vercel.app/api?username=joeky888&show_icons=true&count_private=true&line_height=40&theme=synthwave)
