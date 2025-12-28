@@ -98,7 +98,7 @@ and interested in
 | Documentation       | deno-gfm                                                                                                       |
 | Project Management  | MakePlane, AppFlowy, Zulip (PG), RocketChat (Mongo), Mattermost (PG, MySQL, No max user limits), Revolt.chat   |
 | Hacking             | Flipper Zero (badusb/recording signals), M5Stack Cardputer (M5 Bruce/Inexpensive flipper 0 knock-off)          |
-| Windows Emulator    | Kegworks (Wineskin successor, closed-source)                                                                   |
+| Windows Emulator    | Sikarugir (Wineskin successor, closed-source)                                                                  |
 | Android Emulator    | BlueStacks Air (freeware), Waydroid                                                                            |
 | iOS Emulator        | PlayCover (Apple Silicon, imitates an iPad)                                                                    |
 | Remote Desktop      | Sunshine (Server), Moonlight (Client), netris.me (GeforceNow-like)                                             |
