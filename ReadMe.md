@@ -40,7 +40,7 @@ and interested in
 | Dev Tools        | VSCode (Go, Rust), Zed (TypeScript, Python), [Neo]Vim (Shell, PowerShell), Helix (low-end hardwares), DBeaver (SQL), TablePlus (NoSQL), Alacritty (macOS) and Wezterm (Windows) |
 | Dev OS           | Mostly macOS and Windows, sometimes Arch Linux, Nix, LineageOS (Android), iOS, FydeOS (Chrome OS)                                                                               |
 | AI Assistants    | ChatGPT, Grok, DeepSeek (Pake), Gemini, Microsoft Copilot                                                                                                                       |
-| CLI/TUI          | fastfetch, ripgrep, fd, fzf, oha, zellij, tmux, htop, bottom, dnslookup (DoH/DoT), mtr, xh, k9s, yt-dlp, streamlink, aria2, ffmpeg and curl                                     |
+| CLI/TUI          | fastfetch, ripgrep, fd, fzf, oha, zellij, tmux, htop, bottom, dnslookup (DoH/DoT), mtr, xh, k9s, yt-dlp, streamlink, aria2, ffmpeg, gopeed and curl                             |
 | Git              | tig, gitui, onefetch, gitleaks                                                                                                                                                  |
 | Container        | Podman + crun (Linux), Docker (macOS), Qemu (Windows)                                                                                                                           |
 | InfoSec          | Wireguard, DOH, argon2, mTLS, WAF, HSTS, Web-Check, and Mozilla Observatory                                                                                                     |
