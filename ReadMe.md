@@ -6,20 +6,21 @@ I studied Electrical Engineering in high school and Computer Science in college 
 
 I am a(n)
 
-1. 📈 FinTech Backend Developer
-2. 🎮 2&3D Game Frontend Developer (Sometimes)
+1. 🌐 Backend Developer
+2. 🧮 Database Administrator
 3. 🐳 Kubernetes DevOps Manager
 4. 🏰 System Architecture Consultant
 5. 📲 React/React Native/Flutter Frontend Developer
-6. 🔩 Electrician (certified)
-7. 🛠 Automotive Mechanic (trained)
-8. 🏎️ Automotive Engineering Master's student
+6. 🎮 2&3D Game Frontend Developer (Sometimes)
+7. 🔩 Electrician (certified)
+8. 🛠 Automotive Mechanic (trained)
+9. 🏎️ Automotive Engineering Master's student
 
 and interested in
 
 - 🦾 Robotics engineering
 - 💪🏼 Work out
-- 💊 Pharmacy
+- 🧬 Bioinformatics
 
 #### Tech stack I'm using:
 
