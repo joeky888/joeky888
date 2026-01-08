@@ -29,7 +29,7 @@ and interested in
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Language         | Go, Rust, TypeScript, Python, Shell (Zsh, Fish and PowerShell), Wikitext (MediaWiki)                                                                                            |
 | Framework        | GoFiber, Fasthttp (go), Fastwebsockets (rust), PyTorch, Ethers-rs, Fresh (deno), ~~Next.js (node)~~, Tailwind CSS                                                               |
-| Game engine      | ~~Unity3D~~, Cocos Engine                                                                                                                                                       |
+| Game engine      | ~~Unity3D~~, ~~Cocos Engine~~                                                                                                                                                   |
 | Performance      | Pyroscope                                                                                                                                                                       |
 | SEO              | PageSpeed Insights                                                                                                                                                              |
 | OLTP             | MySQL, PostgreSQL, libSQL                                                                                                                                                       |
