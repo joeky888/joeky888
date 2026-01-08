@@ -8,9 +8,9 @@ I am a(n)
 
 1. 🌐 Backend Developer
 2. 🧮 Database Administrator
-3. 🐳 Kubernetes DevOps Manager
+3. 🐳 Kubernetes DevOps Operator
 4. 🏰 System Architecture Consultant
-5. 📲 React/React Native/Flutter Frontend Developer
+5. 📲 React/React Native/Flutter Frontend Developer (Sometimes)
 6. 🎮 2&3D Game Frontend Developer (Sometimes)
 7. 🔩 Electrician (certified)
 8. 🛠 Automotive Mechanic (trained)
