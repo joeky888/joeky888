@@ -109,6 +109,7 @@ and interested in
 | Nvidia Patch/Mod    | NVIDIA patch (NVENC, NVFBC acceleration), DLSSEnhancer mod (Fork of DLSSTweaks)                                |
 | GPU Patch/Mod       | NVIDIA DLSS Enabler mod (for non-RTX GPUs like Intel, AMD, and NVIDIA GTX)                                     |
 | Vehicle             | Starlink Mini (in the car)                                                                                     |
+| Vehicle simulator   | Carla, Airsim                                                                                                  |
 | File and Office     | OpenCloud (Nextcloud alternative)                                                                              |
 
 There are so many more deserving of investment, and there is so little time.
