@@ -81,6 +81,7 @@ and interested in
 | Monitoring          | Netdata, OpenObserve, Sniffnet, SigNoz (clickhouse-based), HyperDX (clickhouse-based)                          |
 | Hot ENV             | Kine, Consul (Multi cluster)                                                                                   |
 | Test                | Yaak (tauri, postman alike)                                                                                    |
+| Object Storage      | RustFS                                                                                                         |
 | Cache               | ReadySet                                                                                                       |
 | Full-text           | Meilisearch, ManticoreSearch, Tantivy, SeekStorm                                                               |
 | Vector/Embedding DB | Milvus (GPU), Qdrant (CPU), LanceDB (GPU), Turso (Faiss), ChromaDB                                             |
