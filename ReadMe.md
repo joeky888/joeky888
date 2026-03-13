@@ -26,29 +26,31 @@ and interested in
 
 (strikethrough means I no longer use it or interested)
 
-| Tech             | Including but not limited to                                                                                                                                                    |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Language         | Go, Rust, TypeScript, Python, Shell (Zsh, Fish and PowerShell), Wikitext (MediaWiki)                                                                                            |
-| Framework        | GoFiber, Fasthttp (go), Fastwebsockets (rust), PyTorch, Ethers-rs, Fresh (deno), ~~Next.js (node)~~, Tailwind CSS                                                               |
-| Game engine      | ~~Unity3D~~, ~~Cocos Engine~~                                                                                                                                                   |
-| Performance      | Pyroscope                                                                                                                                                                       |
-| SEO              | PageSpeed Insights                                                                                                                                                              |
-| OLTP             | MySQL, PostgreSQL, libSQL                                                                                                                                                       |
-| ORM              | Gorm, Drizzle                                                                                                                                                                   |
-| Cache            | DragonflyDB, ~~KeyDB~~, ~~Valkey (Redis)~~                                                                                                                                      |
-| Wide column      | ScyllaDB, ~~Cassandra~~                                                                                                                                                         |
-| TSDB Monitoring  | Loki, VictoriaMetrics, ~~OpenTelemetry~~, ~~Prometheus~~                                                                                                                        |
-| Dev Tools        | VSCode (Go, Rust), Zed (TypeScript, Python), [Neo]Vim (Shell, PowerShell), Helix (low-end hardwares), DBeaver (SQL), TablePlus (NoSQL), Alacritty (macOS) and Wezterm (Windows) |
-| Dev OS           | Mostly macOS and Windows, sometimes Arch Linux, Nix, LineageOS (Android), iOS, FydeOS (Chrome OS)                                                                               |
-| AI Assistants    | ChatGPT, Grok, DeepSeek (Pake), Gemini, Microsoft Copilot                                                                                                                       |
-| CLI/TUI          | fastfetch, ripgrep, fd, fzf, oha, zellij, tmux, htop, bottom, dnslookup (DoH/DoT), mtr, xh, k9s, yt-dlp, streamlink, aria2, ffmpeg, gopeed and curl                             |
-| Git              | tig, gitui, onefetch, gitleaks                                                                                                                                                  |
-| Container        | Podman + crun (Linux), Docker (macOS), Qemu (Windows)                                                                                                                           |
-| InfoSec          | Wireguard, DOH, argon2, mTLS, WAF, HSTS, Web-Check, and Mozilla Observatory                                                                                                     |
-| Hacking          | traitor, sqlmap, masscan, rustscan, nmap, hashcat, sslscan, afrog                                                                                                               |
-| Windows Emulator | Wine, Proton, Proton-GE                                                                                                                                                         |
-| Private Cloud    | K3s, Forgejo, ~~Gitea~~, WoodpeckerCI, Cilium (eBPF CNI and service mesh), RenovateBot                                                                                          |
-| Cloud Native     | Kubernetes, Helm, Terraform, ~~Linkerd2~~, ~~DroneCI~~, Github Actions, Traefik, Cert-Manager, Grafana, AlertManager, ~~Promtail~~, Vector.dev, Autoscaler                      |
+| Tech             | Including but not limited to                                                                                                                                              |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Language         | Go, Rust, TypeScript, Python, Shell (Zsh, Fish and PowerShell), Wikitext (MediaWiki)                                                                                      |
+| Framework        | GoFiber, Fasthttp (go), Fastwebsockets (rust), PyTorch, Ethers-rs, Fresh (deno), ~~Next.js (node)~~, Tailwind CSS                                                         |
+| Game engine      | ~~Unity3D~~, ~~Cocos Engine~~                                                                                                                                             |
+| Performance      | Pyroscope                                                                                                                                                                 |
+| SEO              | PageSpeed Insights                                                                                                                                                        |
+| OLTP             | MySQL, PostgreSQL, libSQL                                                                                                                                                 |
+| ORM              | Gorm, Drizzle                                                                                                                                                             |
+| Cache            | DragonflyDB, ~~KeyDB~~, ~~Valkey (Redis)~~                                                                                                                                |
+| Wide column      | ScyllaDB, ~~Cassandra~~                                                                                                                                                   |
+| TSDB Monitoring  | Loki, VictoriaMetrics, ~~OpenTelemetry~~, ~~Prometheus~~                                                                                                                  |
+| Dev Tools        | VSCode (Go, Rust), Zed (TypeScript, Python), [Neo]Vim (Shell, PowerShell), Helix (low-end hardwares), DBeaver (SQL), TablePlus (NoSQL), Alacritty (macOS) and ~~Wezterm~~ |
+| Dev OS           | Mostly macOS and Windows, sometimes Arch Linux, Nix, LineageOS (Android), iOS, FydeOS (Chrome OS)                                                                         |
+| AI Assistants    | Claude, DeepSeek (Pake), Gemini                                                                                                                                           |
+| CLI/TUI          | fastfetch, ripgrep, fd, fzf, oha, zellij, tmux, htop, bottom, dnslookup (DoH/DoT), mtr, xh, k9s, yt-dlp, streamlink, aria2, ffmpeg, gopeed and curl                       |
+| Git              | tig, gitui, onefetch, gitleaks                                                                                                                                            |
+| Wiki/Notes       | Typst + CeTZ                                                                                                                                                              |
+| Documentation    | deno-gfm                                                                                                                                                                  |
+| Container        | Podman + crun (Linux), Docker (macOS), Qemu (Windows)                                                                                                                     |
+| InfoSec          | Wireguard, DOH, argon2, mTLS, WAF, HSTS, Web-Check, and Mozilla Observatory                                                                                               |
+| Hacking          | traitor, sqlmap, masscan, rustscan, nmap, hashcat, sslscan, afrog                                                                                                         |
+| Windows Emulator | Wine, Proton, Proton-GE                                                                                                                                                   |
+| Private Cloud    | K3s, Forgejo, ~~Gitea~~, WoodpeckerCI, Cilium (eBPF CNI and service mesh), RenovateBot                                                                                    |
+| Cloud Native     | Kubernetes, Helm, Terraform, ~~Linkerd2~~, ~~DroneCI~~, Github Actions, Traefik, Cert-Manager, Grafana, AlertManager, ~~Promtail~~, Vector.dev, Autoscaler                |
 
 #### New tech stack I'm evaluating:
 
@@ -96,8 +98,6 @@ and interested in
 | Stream processing   | RisingWave, Arroyo                                                                                             |
 | SSR/SSG             | Astro                                                                                                          |
 | Slides              | slidev                                                                                                         |
-| Wiki/Notes          | Typst + CeTZ                                                                                                   |
-| Documentation       | deno-gfm                                                                                                       |
 | Project Management  | MakePlane, AppFlowy, Zulip (PG), RocketChat (Mongo), Mattermost (PG, MySQL, No max user limits), Revolt.chat   |
 | Hacking             | Flipper Zero (badusb/recording signals), M5Stack Cardputer (M5 Bruce/Inexpensive flipper 0 knock-off)          |
 | Windows Emulator    | Sikarugir (Wineskin successor, closed-source)                                                                  |
