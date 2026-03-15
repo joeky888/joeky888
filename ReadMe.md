@@ -97,7 +97,7 @@ and interested in
 | Streaming           | Iggy, Redpanda                                                                                                 |
 | Stream processing   | RisingWave, Arroyo                                                                                             |
 | SSR/SSG             | Astro                                                                                                          |
-| Slides              | slidev                                                                                                         |
+| OpenClaw            | ZeroClaw (Rust), PicoClaw (Go, simple tasks)                                                                   |
 | Project Management  | MakePlane, AppFlowy, Zulip (PG), RocketChat (Mongo), Mattermost (PG, MySQL, No max user limits), Revolt.chat   |
 | Hacking             | Flipper Zero (badusb/recording signals), M5Stack Cardputer (M5 Bruce/Inexpensive flipper 0 knock-off)          |
 | Windows Emulator    | Sikarugir (Wineskin successor, closed-source)                                                                  |
