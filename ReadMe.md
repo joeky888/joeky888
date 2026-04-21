@@ -91,6 +91,7 @@ and interested in
 | Document/Graph DB   | DGraph, SurrealDB                                                                                              |
 | OLAP Warehouse      | ParadeDB, ClickHouse, DataBend                                                                                 |
 | Time-series DB      | InfluxDB, GreptimeDB, TDengine                                                                                 |
+| Key-Value DB        | redb                                                                                                           |
 | ML Inference        | onnxruntime (Desktop), executorch (Mobile), burn (rust, onnx), WebLLM                                          |
 | LLM architecture    | GPUStack, Mamba, exo (local cluster, ollama alternative)                                                       |
 | ML Visualization    | Streamlit                                                                                                      |
