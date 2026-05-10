@@ -58,7 +58,7 @@ and interested in
 | ------------------- | -------------------------------------------------------------------------------------------------------------- |
 | Language            | Mojo, Zig (replace unsafe rust), MoonBit                                                                       |
 | JS/TS Runtime       | Bun, Poolifier (Node), Poolifier-web-worker (Deno/Bun), QuickJS (The Next Generation)                          |
-| CLI/TUI             | git-delta, shpool, nvtop, lazysql                                                                              |
+| CLI/TUI             | tssh, git-delta, shpool, nvtop, lazysql                                                                        |
 | GUI                 | Tauri, Pywebview, NiceGUI                                                                                      |
 | Git                 | GitButler                                                                                                      |
 | Binary Analysis     | ImHex (Patch), Tracy Profiler, WINSDK/bite                                                                     |
