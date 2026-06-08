@@ -58,6 +58,7 @@ and interested in
 | ------------------- | -------------------------------------------------------------------------------------------------------------- |
 | Language            | Mojo, Zig (replace unsafe rust), MoonBit                                                                       |
 | JS/TS Runtime       | Bun, Poolifier (Node), Poolifier-web-worker (Deno/Bun), QuickJS (The Next Generation)                          |
+| Automation          | juestfile, earthly                                                                                             |
 | CLI/TUI             | tssh, git-delta, shpool, nvtop, lazysql                                                                        |
 | GUI                 | Tauri, Pywebview, NiceGUI                                                                                      |
 | Git                 | GitButler                                                                                                      |
