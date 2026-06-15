@@ -38,7 +38,7 @@ and interested in
 | Cache            | DragonflyDB, ~~KeyDB~~, ~~Valkey (Redis)~~                                                                                                                                 |
 | Wide column      | ScyllaDB, ~~Cassandra~~                                                                                                                                                    |
 | TSDB Monitoring  | Loki, VictoriaMetrics, ~~OpenTelemetry~~, ~~Prometheus~~                                                                                                                   |
-| Dev Tools        | VSCode (Go, Rust), Zed (TypeScript, Python), [Neo]Vim (Shell, PowerShell), Helix (low-end hardwares), DBeaver (SQL), TablePlus (NoSQL), Alacritty (macOS), Ghostty (Linux) |
+| Dev Tools        | VSCode (Go, Rust), Zed (TypeScript, Python), [Neo]Vim (Shell, PowerShell), Helix (low-end hardwares), DBeaver (SQL), TablePlus (NoSQL), Ghostty (macOS), Alacritty (Linux) |
 | Dev OS           | Mostly macOS and Windows, sometimes Arch Linux, Nix, LineageOS (Android), iOS, FydeOS (Chrome OS)                                                                          |
 | AI Assistants    | Claude, DeepSeek (Pake), Gemini                                                                                                                                            |
 | CLI/TUI          | fastfetch, ripgrep, fd, fzf, oha, zellij, tmux, htop, bottom, dnslookup (DoH/DoT), mtr, xh, k9s, yt-dlp, streamlink, aria2, ffmpeg, gopeed and curl                        |
