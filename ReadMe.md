@@ -62,6 +62,7 @@ and interested in
 | CLI/TUI             | tssh, git-delta, shpool, nvtop, lazysql                                                                        |
 | GUI                 | Tauri, Pywebview, NiceGUI                                                                                      |
 | Git                 | GitButler                                                                                                      |
+| VCS                 | Epic Lore                                                                                                      |
 | Binary Analysis     | ImHex (Patch), Tracy Profiler, WINSDK/bite                                                                     |
 | NAT Penetration     | frp, rathole                                                                                                   |
 | Game engine         | Unreal (PuerTS)                                                                                                |
