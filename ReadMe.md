@@ -69,7 +69,7 @@ and interested in
 | File System         | ~~Bcachefs (Linux 6.7+)~~                                                                                      |
 | IoT edge            | Supabase                                                                                                       |
 | Backend             | Hono.js + htmx (edge native, APIs for mobile apps), Salvo.rs (http3/webtransport), Socketify.py (uws)          |
-| Weak network        | Yasio, P2PCF, WebRTC-rs, PeerJS                                                                                |
+| Weak network        | Yasio, P2PCF, WebRTC-rs, PeerJS, zenoh, WebTransport                                                           |
 | OLTP                | TiDB (No funcs, no triggers), Turso (sqlite), YugabyteDB                                                       |
 | HFT                 | TigerBeetleDB                                                                                                  |
 | CI                  | ArgoCD                                                                                                         |
