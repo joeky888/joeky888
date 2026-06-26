@@ -30,7 +30,7 @@ and interested in
 | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Language         | Go, Rust, TypeScript, Python, Shell (Zsh, Fish and PowerShell), Wikitext (MediaWiki)                                                                                       |
 | Framework        | GoFiber, Fasthttp (go), Fastwebsockets (rust), PyTorch, Ethers-rs, Fresh (deno), ~~Next.js (node)~~, Tailwind CSS                                                          |
-| Game engine      | ~~Unity3D~~, ~~Cocos Engine~~                                                                                                                                              |
+| Game engine      | ~~Unity3D~~, Cocos Engine                                                                                                                                                  |
 | Performance      | Pyroscope                                                                                                                                                                  |
 | SEO              | PageSpeed Insights                                                                                                                                                         |
 | OLTP             | MySQL, PostgreSQL, libSQL                                                                                                                                                  |
@@ -40,7 +40,7 @@ and interested in
 | TSDB Monitoring  | Loki, VictoriaMetrics, ~~OpenTelemetry~~, ~~Prometheus~~                                                                                                                   |
 | Dev Tools        | VSCode (Go, Rust), Zed (TypeScript, Python), [Neo]Vim (Shell, PowerShell), Helix (low-end hardwares), DBeaver (SQL), TablePlus (NoSQL), Ghostty (macOS), Alacritty (Linux) |
 | Dev OS           | Mostly macOS and Windows, sometimes Arch Linux, Nix, LineageOS (Android), iOS, FydeOS (Chrome OS)                                                                          |
-| AI Assistants    | Claude, DeepSeek (Pake), Gemini                                                                                                                                            |
+| AI Assistants    | Claude, Codex, DeepSeek (Pake), Gemini                                                                                                                                     |
 | CLI/TUI          | fastfetch, ripgrep, fd, fzf, oha, zellij, tmux, htop, bottom, dnslookup (DoH/DoT), mtr, xh, k9s, yt-dlp, streamlink, aria2, ffmpeg, gopeed and curl                        |
 | Git              | tig, gitui, onefetch, gitleaks                                                                                                                                             |
 | Wiki/Notes       | Typst + CeTZ                                                                                                                                                               |
@@ -58,7 +58,7 @@ and interested in
 | ------------------- | -------------------------------------------------------------------------------------------------------------- |
 | Language            | Mojo, Zig (replace unsafe rust), MoonBit                                                                       |
 | JS/TS Runtime       | Bun, Poolifier (Node), Poolifier-web-worker (Deno/Bun), QuickJS (The Next Generation)                          |
-| Automation          | juestfile, taskfile, earthly                                                                                   |
+| Automation          | justfile, taskfile, earthly                                                                                    |
 | CLI/TUI             | tssh, git-delta, shpool, nvtop, lazysql                                                                        |
 | GUI                 | Tauri, Pywebview, NiceGUI                                                                                      |
 | Git                 | GitButler                                                                                                      |
