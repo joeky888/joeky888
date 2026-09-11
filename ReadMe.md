@@ -14,7 +14,7 @@ I am a(n)
 6. 🎮 2&3D Game Frontend Developer (Sometimes)
 7. 🔩 Electrician (certified)
 8. 🛠 Automotive Mechanic (trained)
-9. 🏎️ Automotive Engineering Master's student
+9. 🏎️ Mechanical Engineering Master's student
 
 and interested in
 
