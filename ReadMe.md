@@ -13,8 +13,8 @@ I am a(n)
 5. 📲 React/React Native/Flutter Frontend Developer (Sometimes)
 6. 🎮 2&3D Game Frontend Developer (Sometimes)
 7. 🔩 Electrician (certified)
-8. 🛠 Automotive Mechanic (trained)
-9. 🏎️ Mechanical Engineering Master's student
+8. 🏎️ Automotive Mechanic (trained)
+9. 🛠 Mechanical Engineering Master's student
 
 and interested in
 
