@@ -59,7 +59,7 @@ and interested in
 | Language            | Mojo, Zig (replace unsafe rust), MoonBit                                                                       |
 | JS/TS Runtime       | Bun, Poolifier (Node), Poolifier-web-worker (Deno/Bun), QuickJS (The Next Generation)                          |
 | Automation          | justfile, taskfile, earthly                                                                                    |
-| CLI/TUI             | tssh, git-delta, shpool, nvtop, lazysql                                                                        |
+| CLI/TUI             | tssh, git-delta, shpool, nvtop, lazysql, herdr                                                                 |
 | GUI                 | Tauri, Pywebview, NiceGUI                                                                                      |
 | Git                 | GitButler                                                                                                      |
 | VCS                 | Epic Lore                                                                                                      |
@@ -72,13 +72,12 @@ and interested in
 | Weak network        | Yasio, P2PCF, WebRTC-rs, PeerJS, zenoh, WebTransport                                                           |
 | OLTP                | TiDB (No funcs, no triggers), Turso (sqlite), YugabyteDB                                                       |
 | HFT                 | TigerBeetleDB                                                                                                  |
-| CI                  | ArgoCD                                                                                                         |
 | Cipher              | xor simd                                                                                                       |
 | MLOps               | Git LFS on S3                                                                                                  |
 | IaC                 | Pulumi                                                                                                         |
 | Orchestration       | Nomad                                                                                                          |
 | Ingress             | LoxiLB (eBPF + http3), HAProxy (http3 requires recompiling)                                                    |
-| CI                  | buck2, sccache + s3                                                                                            |
+| CI                  | ArgoCD, buck2, sccache + s3                                                                                    |
 | Container           | bsdpot (FreeBSD jails)                                                                                         |
 | Container Runtime   | Kata containers, youki, podman (`CONTAINERS_MACHINE_PROVIDER="applehv" or "hyperv"` for mac, win respectively) |
 | VM                  | Microsandbox                                                                                                   |
