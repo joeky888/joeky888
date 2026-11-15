@@ -97,7 +97,7 @@ and interested in
 | ML Inference        | onnxruntime (Desktop), executorch (Mobile), burn (rust, onnx), WebLLM                                          |
 | LLM architecture    | GPUStack, Mamba, exo (local cluster, ollama alternative)                                                       |
 | ML Visualization    | Streamlit                                                                                                      |
-| Streaming           | Iggy, Redpanda                                                                                                 |
+| Streaming           | Apache Iggy, ~~Redpanda~~                                                                                      |
 | Stream processing   | RisingWave, Arroyo                                                                                             |
 | SSR/SSG             | Astro                                                                                                          |
 | OpenClaw            | ZeroClaw (Rust), PicoClaw (Go, simple tasks)                                                                   |
